@@ -5,7 +5,7 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 
 1. [Ahmads Lieblingsrezepte]
 2. [Alis Lieblingsrezepte](#alis-lieblingsrezepte)
-3. [Camilas Lieblingsrezepte]
+3. [Camilas Lieblingsrezepte](#camilas-lieblingsrezepte)
 4. [Farihas Lieblingsrezepte]
 5. [Hamids Lieblingsrezepte]
 6. [Houmans Lieblingsrezepte]
@@ -50,13 +50,13 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 8.	_Banane_
 ​
 ## ZUBEREITUNG:
- 
+
 **Alle Zutaten in einem Standmixer vermengen.**
 ​
-> Öl in einer Pfanne erhitzen und jeweils zwei Esslöffel     Teig für einen Pancake bei mittlerer Hitze braten.
-​
+> Öl in einer Pfanne erhitzen und jeweils zwei Esslöffel     Teig für einen Pancake bei mittlerer Hitze braten.​
+
 >  **Tipps:** Jede andere Pflanzenmilch ist möglich. Das Reismehl kann z. B. durch Haferflockenmehl ersetzt werden.
-​
+
 >  Nährwerte:
 153 g Kohlenhydrate
 16 g Fett
@@ -65,13 +65,13 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 ## Alis Lieblingsrezept aus Deutschland
 
 ## Entrecôte-Steak mit Rote-Bete-Sala
-​
+
 ![alt text](https://image.brigitte.de/12263284/t/vb/v3/w960/r1/-/entreco-te-steak-mit-rote-bete-salat.jpg)
 ​
 >  Für ein gutes Stück Fleisch muss man    nicht lange in der Küche stehen – das zarte Entrecôte-Steak mit Rote-Bete-Salat beweist es. Dazu servieren wir Rucola und Walnüsse.
-​
+
 ### Zutaten:
-​
+
 - 1½ EL Olivenöl​
 - (Entrecôte-Steaks à 220 g)
 - Salz
@@ -82,13 +82,14 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 - Zucker
 - 25 Gramm Rucola (Rauke)
 - 1 EL Walnüsse (gemahlen)
-​
-### Zubereitung: 
+
+### Zubereitung:
+
 > Den Backofen auf 150 Grad, Umluft nicht empfehlenswert, Gas Stufe 1 vorheizen.
  1 EL Öl in einer Pfanne erhitzen. Steaks trocken tupfen, salzen, pfeffern und je Seite etwa ½ Minute scharf anbraten. Auf einem Blech im Ofen 8–10 Minuten fertig garen.
  Rote Bete abtropfen lassen und in Spalten schneiden. Knoblauch andrücken und schälen. 1–2 EL Öl in einer Pfanne erhitzen, Rote Bete und Knoblauch darin 3 Minuten braten. Essig und 2 Prisen Zucker zufügen, zugedeckt etwa 2 Minuten karamellisieren lassen.
  Steaks herausnehmen, fest in Backpapier wickeln, 5 Minuten ruhen lassen. Rauke verlesen, abspülen, trocknen. Mit Walnüssen, Roter Bete, restlichem Öl, Salz und Pfeffer mischen. Zu den Steaks servieren.
-​
+
 ##  GUTEN APPETITE
 
 
@@ -96,6 +97,43 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 # Camilas Lieblingsrezepte
 
 ## Camilas Lieblingsrezept aus der Heimat
+
+## Käsebällchen (Aus Brasilien)
+
+Auf Portugiesisch sagt man **Pão de queijo** *(etwas wie Pawn di Keisho)*​
+
+![alt text](https://img.chefkoch-cdn.de/rezepte/2579431404459384/bilder/1152426/crop-600x400/brasilianische-kaesebaellchen-pao-de-queijo.jpg "Käsebällchen")
+
+```​
+Arbeitszeit ca. 30 Minuten
+Ruhezeit ca. 1 Stunde 
+Koch-/Backzeit ca. 25 Minuten
+Gesamtzeit ca. 1 Stunde 55 Minuten
+```
+
+### ZUTATEN:
+
+- **1 kg** 	Tapioka (Mehl), oder, falls zu bekommen, Polvilho azedo
+- **200 ml** 	Öl
+- **500 g**	Käse, gerieben (Gemisch aus Parmesan und Gouda, mittelalt)
+- **3** 	Ei(er), Größe M
+- **400 ml** 	Milch
+- **125 ml** 	Wasser
+- **1 EL** 	Salz, gehäufter EL
+​
+### ZUBEREITUNG:
+
+1. Wasser und Milch zusammen mit dem Öl und dem Salz in einem Topf zum Kochen bringen;​
+2. Den Topf vom Herd nehmen und das Tapiokamehl nach und dazugeben und unterrühren; 
+3. Die 3 Eier verquirlen und in den Teig gleiten lassen; 
+4. Alles zu einem geschmeidigen Teig verarbeiten.
+Zum Schluss den geriebenen Käse zufügen (man kann auch türkischen Kefalotery-Käse, oder Manchego oder Pecorino verwenden) und den Teig jetzt am besten mit den Händen bearbeiten und alles richtig verkneten; 
+5. Diese mit etwas Abstand auf ein mit Backpapier ausgelegtes Backblech legen und für 20 - 25 Minuten auf der mittleren Schiene bei 180 - 200°C Umluft goldgelb backen.
+Nach Ende der Backzeit sind sie von außen leicht knusprig und von innen herrlich weich. Diese besondere Konsistenz ist genau richtig.
+​
+```
+Guten Appetit!
+```
 
 ## Camilas Lieblingsrezept aus Deutschland
 
@@ -215,9 +253,9 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 ## vegane Bratkartoffeln mit Räuchertofu
 ​
 ![veganer Bigos](images/vegane-bratkartoffeln-mit-raeuchertofu.jpg "Vegane Bratkartoffeln")
-​
+
 ### Zutaten:
-​
+
 - 1	kg Kartoffeln, vorwiegend festkochend
 - 2	Stk	Zwiebeln
 - 200 g	Räuchertofu
@@ -225,7 +263,7 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 - 5	EL Rapsöl
 - 1	Prise Kräutersalz
 - 1	Prise Pfeffer, frisch gemahlen
-​
+
 #### Rezept Zubereitung
 ​
 1. Für die veganen Bratkartoffeln mit Räuchertofu zuerst die Kartoffeln in einem großen Topf mit Salzwasser für etwa 20 Minuten kochen.
@@ -305,7 +343,6 @@ Die kleingeschnittenen Zwiebeln in Olivenöl glasig dünsten. Etwas Tomatenmark 
 ![alt text](images/Currywurst.png "Currywurst")
 
 > "Die Zeiten ändern sich, nur die Currywurst nicht"
-
 
 
 # Tanjus Lieblingsrezepte
