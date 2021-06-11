@@ -311,7 +311,7 @@ _Guten Apetit!_
 
 Fruchtiger Rotkohl mit Portwein
 
-=================================
+---
 
 ![alt text](https://img.chefkoch-cdn.de/rezepte/965861202286709/bilder/1176268/crop-600x400/fruchtiger-rotkohl-mit-portwein.jpg "Desutsche-Essen")
 
