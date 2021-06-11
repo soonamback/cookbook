@@ -26,6 +26,8 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 
 ## Ahmads Lieblingsrezept aus der Heimat
 
+
+
 ## Ahmads Lieblingsrezept aus Deutschland
 
 
@@ -145,7 +147,97 @@ Guten Appetit!
 
 ## Farihas Lieblingsrezept aus der Heimat
 
+## Kabuli Palau
+
+![alt text](images/kabuli-palau.jpg "Kabuli Palau")
+
+**Das Rezept**
+
+**_Zutaten für 5 Personen_**
+
+- Basmati-Reis        500 g
+- Lammkeule           1 kg
+- Zwiebeln            200 g
+- Kardamom gemahlen   0,5 TL 
+- Pfeffer             0,5 TL
+- Garam-Masala        1 TL
+- Salz                2 TL
+- Wasser              750 ml
+- Öl                  120 ml
+- Rosinen             100 g
+- Karotten            500 g
+- Mandelstifte        100 g
+- Zucker              2 TL
+
+**_Zubereitung_ (Gesamtzeit 2 Std.)**
+
+1. Reis mit kaltem Wasser bedeckt 1-2 Stunden quellen lassen. Fleisch parieren und in ca. 5 cm große Würfel schneiden. Kardamom, Pfeffer, Garam Masala und Salz in dem warmen Wasser verrühren.
+2. Die Zwiebeln in der Hälfte des Öles unter Rühren anbraten. Dann das Fleisch dazugeben und rundum kräftig anbraten.
+3. Mit der Gewürzmischung ablöschen, aufkochen und bei mittlerer Hitze eine Stunde zugedeckt garen. Dabei immer wieder abschäumen.
+4. Die Karotten putzen, längs in dünne Scheiben, dann in schmale Streifen schneiden.
+5. Das restliche Öl erhitzen, dann die Rosinen unter ständigem Rühren darin so lange erhitzen, bis sie prall und rund geworden sind. Die Rosinen herausheben und auf einen großen Teller geben.
+6. Im selben Öl die Karottenstreifen mit dem Zucker unter Rühren 3-4 Minuten anbraten, herausnehmen und ebenfalls auf den Teller geben. Zuletzt die Mandeln kurz rösten und auf den Teller geben.
+7. Das Fleisch aus der Brühe heben und zugedeckt warmhalten. Die Brühe durch ein feines Sieb in einen großen Topf gießen und aufkochen.
+8. Den abgetropften Reis hineingeben und bei mittlerer Hitze zugedeckt so lange garen, bis die Brühe aufgesogen ist (der Reis fängt dann an leise zu knistern).
+9. Mit dem Stiel eines Kochlöffels mehrere "Kamine" in den Reis drücken, so dass der Dampf entweichen kann.
+10. Das Fleisch, die Rosinen, die Karotten und die Mandelmischung nebeneinander auf den Reis setzen.
+11. Topfdeckel mit einem Küchentuch umwickeln, Topf damit zudecken. Bei sehr niedriger Temperatur weitere 20-30 Minuten erhitzen.
+12. Sowohl die Rosinen, als auch Karotten und die Mandelmischung aus dem Topf heben. Die Fleischstücke auf eine große, vorgewärmte Servierplatte legen und mit dem Reis bedecken.
+13. Die Rosinen, die Mandelmischung und die Karottenstreifen darüber streuen und servieren.
+
+---
+
+_Hier noch ein Video wie man Kabuli Palau kocht._
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/UqK_ox7FF00/0.jpg)](http://www.youtube.com/watch?v=UqK_ox7FF00)
+
+_Guten Apetit!_
+
+Auf afghanisch: _Ishtiyahe khub!_ 
+
 ## Farihas Lieblingsrezept aus Deutschland
+
+## Klassische Kohlrouladen
+
+![alt text](images/kohlrouladen.jpg "Kohlrouladen")
+
+---
+
+**Das Rezept**
+
+**_Zutaten für 6 Personen_**
+
+- Weißkohl (ca. 1,2 kg)               1
+- Kümmelsaat Salz                     2 EL
+- Brötchen (altbacken, ca. 40 g)      1
+- Zwiebel (ca. 90 g)                  1
+- Hackfleisch                         500 g
+- Ei (Kl. M)                          1
+- Kümmel (gemahlen)                   1 TL
+- Pfeffer                             1 TL
+- Öl                                  8 EL
+- Tomatenmark                         1 EL
+- Speisestärke                        3 EL
+
+***
+
+**_Zubereitung_ (Gesamtzeit 4 Std.)**
+
+1. Vom Kohl die äußeren Blätter entfernen, Strunk keilförmig herausschneiden. Kohl und Kümmelsaat in einen großen Topf mit reichlich Salzwasser geben, zugedeckt aufkochen und bei milder Hitze ca. 20 Minuten ziehen lassen. Geben Sie mindestens 3 Liter Wasser zum Kohl, so ist er beim Garziehen komplett bedeckt, und es bleibt genügend Wasser für den Saucenansatz. Kohl mit einer Schaumkelle aus dem Wasser heben und ca. 10 Minuten abkühlen lassen. Kochwasser durch ein Sieb gießen, auffangen und beiseitestellen.
+2. nzwischen für die Füllung Brötchen in Wasser einweichen, bis es komplett vollgesogen ist. Zwiebel in sehr feine Würfel schneiden. Brötchen gut ausdrücken. Hackfleisch mit Brötchen, Zwiebeln, Ei und gemahlenem Kümmel verkneten, mit Salz und Pfeffer würzen, beiseitestellen.
+3. Vom Kohl vorsichtig 12 große Blätter ablösen, auf einem Küchentuch abtropfen lassen und mit Küchenpapier trocken tupfen. Anhaftende Kümmelsaat vorsichtig entfernen. Dicke Mittelrippen aus den Blättern herausschneiden. Je 2 Blätter leicht überlappend aneinanderlegen. Ein Blatt sollte mit dem oberen Rand 2-3 cm breit auf dem unteren Rand des anderen Blattes liegen, damit sich die Füllung gut darin einrollen lässt. Restlichen Kohl beiseitelegen.
+4. Hackmasse in 6 Portionen teilen, je 1 Portion mittig aufs untere Drittel der Kohlblätter setzen, dabei seitlich jeweils etwas Platz lassen. Kohl von unten über die Füllung klappen, dann die Seiten über die Füllung klappen und die Blätter von unten aufrollen. Kohlrouladen über Kreuz mit Küchengarn zusammenbinden.
+5. 3-4 El Öl in einer großen Pfanne erhitzen, Kohlrouladen darin pro Seite je 4-5 Minuten bei mittlerer Hitze braun anbraten. Rouladen aus der Pfanne nehmen und in einen Bräter legen. Bratensatz in der Pfanne mit 500 ml Kochwasser vom Kohl ablöschen, 2 Minuten bei milder Hitze kochen lassen und zu den Rouladen in die Auflaufform gießen. Es sollte genügend Flüssigkeit in der Auflaufform sein, damit die Rouladen während des Garens nicht trocken werden. Kohlrouladen im vorgeheizten Backofen bei 180 Grad (Gas 2-3, Umluft 160) 2-2:30 Stunden schmoren, dabei alle 30 Minuten wenden.
+6.  Für die Sauce den restlichen Kohl in ca. 3 cm große Stücke schneiden, in 3-4 El Öl dunkelbraun anbraten und mit Pfeffer würzen. Tomatenmark zugeben und 2-3 Minuten mitbraten. Mit 1,5 l Kochwasser vom Kohl auffüllen und ca. 1 Stunde bei milder bis mittlerer Hitze einkochen lassen. (Auf die Weise ergibt sich ca. 1 l Saucenansatz.)
+7. Kohlrouladen aus der Auflaufform nehmen und auf einem Teller beiseitestellen. Bratenfond aus der Auflaufform zum Saucenansatz gießen. Saucenansatz durch ein Sieb in einen Topf gießen, durchdrücken und gut abtropfen lassen. Sauce aufkochen und mit in etwas kaltem Wasser angerührter Stärke abbinden. Kohlrouladen in der Sauce nochmals erwärmen, dann auf Tellern verteilen, 3-4 El Sauce darübergeben. Dazu passen Petersilienkartoffeln.
+
+---
+
+_Hier noch ein Video wie man die Kohlroueladen macht._
+
+[![IMAGE ALT TEXT HERE] (http://img.youtube.com/vi/0EzttZ4vM10/0.jpg)](http://www.youtube.com/watch?v=0EzttZ4vM10)
+
+_Guten Apetit!_
 
 
 
@@ -246,7 +338,7 @@ Guten Appetit!
 
 **Bitte heiß servieren**
 
-[siehe auch ein Rezept mit Fleich](https://www.gutekueche.de/bigosch-rezept-2223)
+[siehe auch ein Rezept mit Fleisch](https://www.gutekueche.de/bigosch-rezept-2223)
 
 <a href="https://www.gutekueche.de/bigosch-rezept-2223" target="_blank">siehe auch ein Rezept mit Fleich</a>
 
