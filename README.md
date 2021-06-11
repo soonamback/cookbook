@@ -15,7 +15,7 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 9. [Mustaphas Lieblingsrezepte](#mustaphas-lieblingsrezepte)
 10. [Obadahs Lieblingsrezepte]
 11. [Przemyslaws Lieblingsrezepte](#przemyslaws-lieblingsrezepte)
-12. [Saeeds Lieblingsrezepte]
+12. [Saeeds Lieblingsrezepte](#saeeds-lieblingsrezepte)
 13. [Sidars Lieblingsrezepte]
 14. [Soonams Lieblingsrezepte](#soonams-lieblingsrezepte)
 15. [Tanjus Lieblingsrezepte]
@@ -396,7 +396,7 @@ Fruchtiger Rotkohl mit Portwein
 ## Przemyslaws Lieblingsrezept aus Deutschland
 
 ## vegane Bratkartoffeln mit Räuchertofu
-​
+
 ![veganer Bigos](images/vegane-bratkartoffeln-mit-raeuchertofu.jpg "Vegane Bratkartoffeln")
 
 ### Zutaten:
@@ -410,15 +410,15 @@ Fruchtiger Rotkohl mit Portwein
 - 1	Prise Pfeffer, frisch gemahlen
 
 #### Rezept Zubereitung
-​
+
 1. Für die veganen Bratkartoffeln mit Räuchertofu zuerst die Kartoffeln in einem großen Topf mit Salzwasser für etwa 20 Minuten kochen.
 2. Die Kartoffeln anschließend abseihen, pellen und in nicht zu feine Scheiben schneiden. Nun die Zwiebeln schälen und würfelig schneiden.
 3. Den Räuchertofu abtropfen lassen, die restliche Flüssigkeit mit einem Küchenpapier abtupfen und auch den Tofu in Würfel schneiden.
 3. Dann das Öl in einer großen Pfanne langsam erhitzen und die Zwiebelstücke darin für eine Minute glasig anschwitzen.
 4. Nun den Tofu und die Kartoffeln dazugeben, für ca. 10 Minuten knusprig braten und mit Kräutersalz und Pfeffer abschmecken.
-​
+
 ---
-​
+
 **_Lecker_**
 
 
@@ -427,8 +427,83 @@ Fruchtiger Rotkohl mit Portwein
 
 ## Saeeds Lieblingsrezept aus der Heimat
 
+## Ghorme Sabzi
+
+**Zutaten**
+
+- 1 kg Lammkeule
+- 30 g Butterschmalz
+- 300 g rote Zwiebeln
+- 1 EL Kurkuma (gehäuft)
+- 100 g Petersilie
+- 50 g Koriander
+- 50 g Schnittlauch
+-  150 g Blattspinat
+- 2 EL Bockshornkleeblätter bestellen*
+- 1 Stange Lauch
+- 1 Bund Frühlingszwiebeln
+- 1 Liter Wasser
+- 400 g Fava Bohnen aus der Dose bestellen*
+- 6 getrocknete Limetten bestellen*
+- 2 bis 3 TL Salz
+- 1/2 TL Pfeffer schwarz
+    
+**Für den persischen Reis:**
+
+- 250 g Basmati Reis
+- 2 TL Salz
+- 2 Liter Wasser
+- 1 TL Safranfädem
+
+**Zubereitung**
+
+1. Zuerst das Fleisch waschen, mit Küchenpapier trocken tupfen und in ca. 2 cm große Würfel schneiden. Zwiebel sowie Knoblauch schälen und fein hacken.
+2. Nun 25 ml Ghee zusammen mit den Zwiebel- und Knoblauchstücken in einen Topf geben und mit Kurkuma bestreuen.
+3. Danach die Fleischstücke hinzufügen und bei starker Hitze von allen Seiten gut anbraten - dabei immer wieder rühren.
+4. Anschließend mit dem Wasser aufgießen, sodass die Zutaten nicht ganz mit Wasser bedeckt sind und für ca. 45 Minuten schmoren lassen.
+5. Ghormeh Sabzi Kräutermischung sowie Bockshornkleeblätter in eine Schüssel geben, mit etwas Wasser übergießen und einweichen lassen.
+6. Schnittlauch waschen, trocken schütteln und in feine Röllchen schneiden. Petersilie und Koriander ebenso waschen, trocken schütteln, die Blätter abzupfen und fein hacken. Frühlingszwiebel putzen, in Ringe schneiden und anschließend waschen. Spinat waschen, verlesen und klein schneiden.
+7. Die Bohnen in einem Sieb abtropfen lassen.
+8. Nun in einer separaten Pfanne eingeweichte Kräuter, Schnittlauch, Petersilie, Koriander, Frühlingszwiebeln und Spinat mit 25 ml Ghee anbraten bis alles zusammenfällt und anschließend mit den Bohnen und dem Lorbeerblatt in den Topf mit dem Fleisch geben.
+9. Die Limetten mehrmals einstechen, ebenso in den Topf geben und für weitere 60 Minuten zugedeckt schmoren lassen.
+10. Zum Schluss den Eintopf mit Salz und Pfeffer abschmecken und servieren.
+
+**TIPPS ZUM REZEPT!**
+
+Ghormeh Sabzi mit normalen Reis oder Safranreis servieren. Das persische Gericht schmeckt am nächsten Tag noch besser.
+
+![Ghormeh sabzi](images/ghormeh-sabzi.jpg "testbild")
+
 ## Saeeds Lieblingsrezept aus Deutschland
 
+## Kürbissuppe
+
+**Zutaten**
+
+Für 4 Portionen
+
+- 1   Hokkaido-Kürbis (ca. 800 g)
+- 1   Zwiebel
+- 1   Knoblauchzehe
+- 2 EL   Butter
+- 1 l   Gemüsebrühe
+- Salz
+- Pfeffer
+- 100 ml   Schlagsahne
+- etwas Petersilie und Chiliflocken zum Garnieren
+
+**Zubereitung**
+
+(35 Minuten)
+
+ganz einfach
+
+1. Kürbis halbieren, vierteln und die Kerne mit einem Esslöffel herausschaben. Kürbis waschen, trocken tupfen und in Stücke schneiden. Zwiebel schälen und würfeln. Knoblauch schälen und hacken.
+2. Butter in einem Topf schmelzen. Zwiebel und Knoblauch darin glasig dünsten. Kürbis zufügen und kurz mitdünsten. Mit Brühe ablöschen und mit Salz und Pfeffer würzen. Zugedeckt bei milder Hitze ca. 15 Minuten köcheln lassen.
+3. Ca. 3/4 der Sahne zufügen und alles fein pürieren. Noch einmal abschmecken. Kürbissuppe mit Rest Sahne und nach Belieben mit Pfeffer, gehackter Petersilie und Chiliflocken anrichten und servieren.
+4. Tipp: Kürbissuppe einfrieren! Dafür die abgekühlte Suppe in Gefrierdosen oder Gefrierbeutel geben, fest verschließen und ins Tiefkühlfach legen. Zum Auftauen einige Stunden vor dem Aufwärmen in den Kühlschrank stellen.
+
+![Kürbis suppe](images/Kürbissuppe.png "testbild")
 
 
 # Sidars Lieblingsrezepte
