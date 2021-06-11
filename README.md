@@ -9,7 +9,7 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 4. [Farihas Lieblingsrezepte](#farihas-lieblingsrezepte)
 5. [Hamids Lieblingsrezepte]
 6. [Houmans Lieblingsrezepte]
-7. [Lászlós Lieblingsrezepte]
+7. [Lászlós Lieblingsrezepte](#laszlos-lieblingsrezepte)
 7. [Mahmuts Lieblingsrezepte]
 8. [Mariannas Lieblingsrezepte](#mariannas-lieblingsrezepte)
 9. [Mustaphas Lieblingsrezepte](#mustaphas-lieblingsrezepte)
@@ -257,13 +257,78 @@ _Guten Apetit!_
 
 
 
-# Lászlós Lieblingsrezepte
+# Laszlos Lieblingsrezepte
 
 ## Lászlós Lieblingsrezept aus der Heimat
 
+## Ungarisches Bohnengulasch
+
+![alt text](https://guenstig-kochen.at/wp-content/uploads/2020/01/ungarisches-bohnengulasch-babgulyas.jpg "Bild bezeichnung was Ihr wollt")
+
+## Zutaten für 6 Personen
+
+- 1 kg Schulter von Schwein
+- 200 g geräucherter Speck
+- 1 Dose weiße Bohnen, groß (800 g)
+- 1 Dose rote Kidney Bohnen, groß (800g)
+- 150 ml Speiseöl
+- 3 Zwiebeln 
+- 3 Zehen Knoblauch
+- 3 Tomaten
+- 2 grüne Paprika
+- 1/2 Sellerie
+- 3 Karotten
+- 1 EL Thymian, getrocknet
+- 2 EL Paprikapulver (rot)
+- 2TL Pfeffer
+- 2 Lorbeerblätter 
+- Salz
+
+### Zubereitung 
+
+Für das ungarische Bohnengulasch (Babgulyás im Original) bereiten wir uns zuerst den Speck und die Gemüse für, die wir alles am entweder schälen – putzen oder von der Schwarte befreien und anschließend in kleine Würfel schneiden. Auch das Schulterfleisch vom Schwein schneiden wir in mundgerechte Quader.
+
+Und schon kann es auch losgehen und dazu stellen wir einen Schmortopf  auf den Herd, erhitzen diesen, geben das Öl samt Speckwürfeln hinein und lassen diese kurz aus.
+
+Im nächsten Schritt geben wir Knoblauch & Zwiebel hinzu und rösten für gut 10 Minuten weiter. Dabei immer wieder umrühren.
+
+Danach das Schweinefleisch zu den Zwiebeln, die nun ganz leicht Farbe genommen haben, geben und braten das Ganze für weitere ~ 15 Minuten weiter. Umrühren nicht vergessen. 
+ 
+Jetzt wird es Zeit für die in Würfelchen geschnittenen grünen Paprika. Diese geben wir nun hinein und garen nun nochmal für 5 Minuten. 
+
+Nun wird es Zeit, dass wir die Würfel aus Tomate – Sellerie, Karotte & Lorbeer ebenfalls zum Gulaschansatz geben und abermals für gut 10 Minuten angehen lassen. 
+
+Nach der ganzen Rösterei und Rührerei rühren wir nun das gute Paprikapulver, den Thymian und den Pfeffer unter und gießen sofort mit 2 Liter Wasser auf, denn so kann uns das Pulver nicht anbrennen und bitter werden. Nun solange köcheln bis das Fleisch weich ist. 
+
+Ist das geschehen, so geben wir nun die gut abgetropften weißen & roten Bohnen zu den restlichen Zutaten und lassen diese nun für 10 – 15 Minuten, unter leichtem Köcheln und gelegentlichem Umrühren, final mitköcheln. 
+
+Durch das Rühren und die austretende Stärke der Bohnen dickt das Bohnengulasch nun etwas ein. Sollte es nun etwas zu dick sein, so gießt man etwas Wasser dazu. 
+
+Abschließend nach Geschmack mit Salz & Pfeffer aus der Mühle kräftig würzen.
+
 ## Lászlós Lieblingsrezept aus Deutschland
 
+## Knuspriges Käsebrot
 
+![alt text](https://images.lecker.de/express-erbsensuppe-mit-knusprigem-kaesebrot-lecker-04-2018-F5924103,id=c7e83336,b=lecker,w=610,cg=c.jpg"Bild bezeichnung was Ihr wollt")
+
+**Für 4 Personen:**
+
+- 1 Zwiebel
+- 1 Stange Porree
+- 1 EL Öl
+- 1 EL Gemüsebrühe
+- 2 Große Scheiben Bauernbrot
+- 150g Gouda
+- 750g TK-Erbsen
+- Salz, Pfeffer
+
+## Zubereitung
+Zwiebel schälen und fein würfeln. Porree putzen, waschen und in dünne Ringe schneiden. Backofen vorheizen (E-Herd: 200 °C/Umluft: 180 °C/Gas: s. Hersteller). Blech mit Backpapier auslegen. Zwiebel und Porree im heißen Öl andünsten. 1,2 l Wasser zugießen, aufkochen, Brühe einrühren und ca. 5 Minuten köcheln.
+
+Brotscheiben längs halbieren, auf das Blech legen. Käse reiben, auf das Brot streuen und ca. 7 Minuten überbacken.
+
+Gefrorene Erbsen in der Suppe ca. 5 Minuten kochen. Suppe grob pürieren. Mit Salz und Pfeffer abschmecken. Mit Brot anrichten.
 
 # Mahmuts Lieblingsrezepte
 
