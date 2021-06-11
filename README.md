@@ -12,7 +12,7 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 7. [Lászlós Lieblingsrezepte]
 7. [Mahmuts Lieblingsrezepte]
 8. [Mariannas Lieblingsrezepte](#mariannas-lieblingsrezepte)
-9. [Mustaphas Lieblingsrezepte]
+9. [Mustaphas Lieblingsrezepte](#mustaphas-lieblingsrezepte)
 10. [Obadahs Lieblingsrezepte]
 11. [Przemyslaws Lieblingsrezepte](#przemyslaws-lieblingsrezepte)
 12. [Saeeds Lieblingsrezepte]
@@ -308,6 +308,35 @@ _Guten Apetit!_
 ## Mustaphas Lieblingsrezept aus der Heimat
 
 ## Mustaphas Lieblingsrezept aus Deutschland
+
+Fruchtiger Rotkohl mit Portwein
+
+=================================
+
+![alt text](https://img.chefkoch-cdn.de/rezepte/965861202286709/bilder/1176268/crop-600x400/fruchtiger-rotkohl-mit-portwein.jpg "Desutsche-Essen")
+
+## Zutaten für
+
+> - 1,2 kg 	Rotkohl, geputzt und in feine Streifen geschnitten
+> - 1 	Zitrone(n)
+> - Salz und Pfeffer aus der Mühle
+> - 50 g 	Zucker
+> - ¼ Liter 	Rotwein, trocken, kräftig
+> - etwas 	Essig (Rotweinessig)
+> - ¼ Liter 	Portwein
+> - 100 g 	Schmalz (Gänseschmalz)
+> - 2 	Zwiebel(n), fein gewürfelt
+> - 30 g 	Honig (Akazienhonig)
+> - 3 	Orange(n), ausgepresst
+> - 100 g 	Preiselbeeren aus dem Glas
+> -  1 	Apfel, geschält, in 8-12 Segmente geteilt und diese in Scheibchen geschnitten
+
+## Zubereitung
+
+- Den Rotkohl leicht salzen, mit dem Saft einer Zitrone beträufeln und gut durchmischen. Dadurch wird er schön rot.
+- Den Zucker bei nicht zu starker Hitze goldgelb karamellisieren lassen und mit Essig, Rotwein und Portwein ablöschen. Das Gänseschmalz zufügen, die Flüssigkeit etwas einkochen lassen und die Zwiebelwürfel hineingeben. Mit Salz, Pfeffer und Honig würzen und die Flüssigkeit erneut einkochen lassen.
+- Orangensaft, Rotkohl, Preiselbeeren und den Apfel zufügen und alles zugedeckt bei mittlerer Hitze weich dünsten, das dauert 40 - 60 Minuten, hängt vom Rotkohl ab. Dabei öfter umrühren und immer wieder probieren ob der Rotkohl schon gar ist, zum Schluss noch einmal abschmecken.
+- Den Rotkohl vor dem Servieren noch neben dem Herd ein paar Minuten nachziehen lassen. 
 
 
 
