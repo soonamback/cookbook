@@ -11,7 +11,7 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 6. [Houmans Lieblingsrezepte]
 7. [Lászlós Lieblingsrezepte]
 7. [Mahmuts Lieblingsrezepte]
-8. [Mariannas Lieblingsrezepte]
+8. [Mariannas Lieblingsrezepte](#mariannas-lieblingsrezepte)
 9. [Mustaphas Lieblingsrezepte]
 10. [Obadahs Lieblingsrezepte]
 11. [Przemyslaws Lieblingsrezepte](#przemyslaws-lieblingsrezepte)
@@ -235,7 +235,7 @@ Auf afghanisch: _Ishtiyahe khub!_
 
 _Hier noch ein Video wie man die Kohlroueladen macht._
 
-[![IMAGE ALT TEXT HERE] (http://img.youtube.com/vi/0EzttZ4vM10/0.jpg)](http://www.youtube.com/watch?v=0EzttZ4vM10)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0EzttZ4vM10/0.jpg)](http://www.youtube.com/watch?v=0EzttZ4vM10)
 
 _Guten Apetit!_
 
@@ -276,6 +276,28 @@ _Guten Apetit!_
 # Mariannas Lieblingsrezepte
 
 ## Mariannas Lieblingsrezept aus der Heimat
+
+## Piroggen mit Fleischfüllung
+
+## Zutaten
+
+- 500 g Rinderhackfleisch
+- 1 EL Koriander (trocken)
+- 1 EL Zucker
+- 2 TL Salz
+- 2 St. Eigelb
+- 120 ml Milch
+- 550 g Mehl
+- 10 g Hefe (trocken)
+- 500 ml Pflanzenöl
+- 
+## Zubereitung
+
+1. In warme Milch hinzufügen: Salz, Zucker, Trockenhefe. Umrühren. 100 g Mehl dazugeben, umrühren und 20 min. lang bedeckt mit einem sauberen Handtuch an einem warmen Ort stehen lassen.
+2. In den Sauerteig langsam das restliche Mehl hinzufügen. Teig anrühren. 2 Eigelbe hinzufügen und umrühren. 40 ml Pflanzenöl hinzufügen. Teig zu einer Kugel rollen. 30 Minuten lang stehen lassen.
+3. Hackfleisch, Salz und Koriander vermischen. Teig ausrollen und zu einer Wurst formen. In gleich große Segmente aufteilen. Teigsegmente ausrollen, Hackmischung hineinlegen.
+4. Piroggenteig verschließen. Piroggen so formen, dass diese nicht aufgeht.
+5. Öl in die Pfanne geben. Piroggen ins Öl legen. Von jeder Seite 2 Min. lang braten. Piroggen von allen Seiten durchbraten. Servieren.
 
 ## Mariannas Lieblingsrezept aus Deutschland
 
