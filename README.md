@@ -6,7 +6,7 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 1. [Ahmads Lieblingsrezepte]
 2. [Alis Lieblingsrezepte](#alis-lieblingsrezepte)
 3. [Camilas Lieblingsrezepte](#camilas-lieblingsrezepte)
-4. [Farihas Lieblingsrezepte]
+4. [Farihas Lieblingsrezepte](#farihas-lieblingsrezepte)
 5. [Hamids Lieblingsrezepte]
 6. [Houmans Lieblingsrezepte]
 7. [Lászlós Lieblingsrezepte]
