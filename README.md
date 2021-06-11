@@ -310,7 +310,7 @@ Abschließend nach Geschmack mit Salz & Pfeffer aus der Mühle kräftig würzen.
 
 ## Knuspriges Käsebrot
 
-![alt text](https://images.lecker.de/express-erbsensuppe-mit-knusprigem-kaesebrot-lecker-04-2018-F5924103,id=c7e83336,b=lecker,w=610,cg=c.jpg"Bild bezeichnung was Ihr wollt")
+![alt text](https://images.lecker.de/express-erbsensuppe-mit-knusprigem-kaesebrot-lecker-04-2018-F5924103,id=c7e83336,b=lecker,w=610,cg=c.jpg "Bild bezeichnung was Ihr wollt")
 
 **Für 4 Personen:**
 
