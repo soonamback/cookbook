@@ -23,6 +23,144 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 ---
 
 # Ahmads Lieblingsrezepte
+# Pasta in cremiger Puten-Champignon-Sauce
+​
+​
+​
+​
+## Zutaten
+​
+​
+```
+ Putenbrustfilets                                                                     600 g 
+```
+​
+​
+```
+ Champignons, weiß                                                                    800 g 
+```
+​
+```
+ Basilikum, frisch                                                                     30g
+​
+ ```
+​
+ ```
+ Salz
+​
+```
+```
+ Spaghetti                                                                            500 g 
+​
+```
+​
+```
+ Öl 3 EL
+ ```
+ ```
+ Pfeffer, schwarz
+```
+```
+  Balsamicoessig, hell                                                                  4 EL 
+```
+```
+ Frischkäse, natur                                                                    100 g 
+ ```
+​
+​
+​
+<iframe width="810" height="456" src="https://www.youtube.com/embed/L4GhsPvgLBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+​
+​
+​
+1. Pilze ggf. mit Küchenkrepp säubern und sechsteln. Basilikum waschen, trocken schütteln, Blätter von den Stielen zupfen und fein schneiden. Pute waschen, trocken tupfen und grob würfeln.  ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703647/pasta-in-cremiger-puten-champignon-sauce-147788_step_1.jpg)
+​
+​
+2. In einem Topf ca. 5 l Salzwasser aufkochen. Pasta im siedenden Salzwasser ca. 9 Min. al dente garen. ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703648/pasta-in-cremiger-puten-champignon-sauce-147788_step_2.jpg)
+​
+3. In einer Pfanne 1 EL Öl auf hoher Stufe erhitzen und Putenwürfel ca. 4 Min. rundherum anbraten. Danach pfeffern und auf einem Teller beiseitestellen. 2 EL Öl im Bratensatz in der Pfanne auf hoher Stufe erhitzen und Pilze darin ca. 2–3 Min. scharf anbraten. Danach mit 2 EL Balsamico ablöschen und mit Salz und Pfeffer würzen. 
+​
+ ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703649/pasta-in-cremiger-puten-champignon-sauce-147788_step_3.jpg)
+​
+​
+4. Spaghetti im Sieb abgießen und Kochwasser dabei auffangen. 1–2 Kellen Kochwasser, Putenwürfel, Frischkäse und die Hälfte des Basilikums in die Pfanne geben, alles vermengen und mit Salz und Pfeffer abschmecken. Spaghetti dazugeben und mit der Sauce vermengen. Spaghetti in cremiger Puten-Pilz-Sauce auf Tellern anrichten, restliches Basilikum darüberstreuen und servieren. 
+![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703650/pasta-in-cremiger-puten-champignon-sauce-147788_step_4.jpg)
+​
+Guten Appetit! 
+​
+​
+ ***
+​
+# Tagliatelle mit Spinat und Hähnchen
+​
+​
+​
+​
+## Zutaten
+​
+​
+```
+Hähnchenbrustfilets                                                                     600 g 
+```
+​
+​
+```
+ Zwiebeln, rot                                                                          1 St. 
+```
+​
+```
+ Öl                                                                                       3 EL 
+​
+ ```
+​
+ ```
+ Salz
+​
+```
+```
+Schlagsahne                                                                             150 ml 
+​
+```
+​
+```
+Tagliatelle, frisch                                                                      500 g 
+ ```
+ ```
+ Olivenöl                                                                                1 EL 
+```
+```
+Blattspinat                                                                             300 g 
+```
+```
+ Pfeffer, schwarz
+	
+ ```
+​
+​
+​
+​
+​
+​
+​
+​
+​
+<iframe width="810" height="456" src="https://www.youtube.com/embed/pbPPdheBd1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+​
+1. In einem Topf ca. 4 l Salzwasser zugedeckt aufkochen. Hähnchen waschen, trocken tupfen, ggf. von Sehnen befreien und in ca. 3–4 cm große Stücke Fleisch schneiden. Zwiebel halbieren, schälen und in dünne Streifen schneiden.  
+ ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629853/tagliatelle-mit-spinat-und-haehnchen-144482_step_1.jpg)
+​
+​
+2. In einer Pfanne 2 EL Öl auf hoher Stufe erhitzen und Hähnchen darin ca. 3–4 Min. scharf anbraten. Anschließend Hähnchen auf einem Teller beiseitelegen. Pfanne nicht säubern, 1 EL Öl zugeben und Zwiebeln darin auf mittlerer Stufe ca. 3 Min. anschwitzen. Mit Sahne ablöschen, aufkochen und auf mittlerer Stufe ca. 3–4 Min. einköcheln, sodass eine sämige Soße entsteht.  ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629854/tagliatelle-mit-spinat-und-haehnchen-144482_step_2.jpg)
+​
+3. Inzwischen Tagliatelle im kochenden Salzwasser ca. 4 Min. bissfest garen. Anschließend die Nudeln in einem Sieb abgießen. Tagliatelle nicht abschrecken, sondern mit 1 EL Olivenöl mischen und beiseitestellen. 
+ ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629855/tagliatelle-mit-spinat-und-haehnchen-144482_step_3.jpg)
+​
+4. Spinat waschen und trocken schleudern. Spinat zur Zwiebel-Sahne-Mischung geben und unter Rühren ca. 1–2 Min. zusammenfallen lassen. Hähnchen ebenfalls wieder zugeben und ca. 1–2 Min. warm ziehen lassen. Alles würzig mit Salz und Pfeffer abschmecken. 
+![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629856/tagliatelle-mit-spinat-und-haehnchen-144482_step_4.jpg)
+​
+5. In der Pfanne Tagliatelle, Spinat-Sahnesoße und das Hähnchen vermengen und ggf. nachwürzen. Tagliatelle mit Hähnchen und Spinat-Sahnesoße in tiefen Tellern anrichten und servieren. ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629857/tagliatelle-mit-spinat-und-haehnchen-144482_step_5.jpg)
+​
+Guten Appetit!
 
 ## Ahmads Lieblingsrezept aus der Heimat
 
