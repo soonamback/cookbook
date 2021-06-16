@@ -8,9 +8,9 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 3. [Camilas Lieblingsrezepte](#camilas-lieblingsrezepte)
 4. [Farihas Lieblingsrezepte](#farihas-lieblingsrezepte)
 5. [Hamids Lieblingsrezepte](#hamid-lieblingsrezepte)
-6. [Houmans Lieblingsrezepte]
+6. [Houmans Lieblingsrezepte](#houmans-lieblingsrzepte)
 7. [Lászlós Lieblingsrezepte](#laszlos-lieblingsrezepte)
-7. [Mahmuts Lieblingsrezepte]
+7. [Mahmuts Lieblingsrezepte](#mahmuts-lieblingsrezepte)
 8. [Mariannas Lieblingsrezepte](#mariannas-lieblingsrezepte)
 9. [Mustaphas Lieblingsrezepte](#mustaphas-lieblingsrezepte)
 10. [Obadahs Lieblingsrezepte]
@@ -52,8 +52,7 @@ Balsamicoessig, hell                                                            
 ```
 Frischkäse, natur                                                                       100 g 
  ```
-​
-<iframe width="810" height="456" src="https://www.youtube.com/embed/L4GhsPvgLBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+​<iframe width="810" height="456" src="https://www.youtube.com/embed/L4GhsPvgLBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ​
 ​
 1. Pilze ggf. mit Küchenkrepp säubern und sechsteln. Basilikum waschen, trocken schütteln, Blätter von den Stielen zupfen und fein schneiden. Pute waschen, trocken tupfen und grob würfeln.  
@@ -138,7 +137,8 @@ Guten Appetit!
 
 ***
 # Alis Lieblingsrezepte
-## Alis Lieblingsrezept aus der Heimat
+## Alis Lieblingsrezept aus der Heimat 
+
 ## MAKARONNI GERICHT
 
 ![alt text](https://media-cdn.tripadvisor.com/media/photo-s/08/39/f2/80/makaroni-italian-restaurant.jpg)
@@ -198,6 +198,7 @@ Guten Appetit!
 ##  GUTEN APPETITE
 # Camilas Lieblingsrezepte
 ## Camilas Lieblingsrezept aus der Heimat
+
 ## Käsebällchen (Aus Brasilien)
 
 Auf Portugiesisch sagt man **Pão de queijo** *(etwas wie Pawn di Keisho)*​
@@ -287,6 +288,7 @@ _Gesamtzeit ca. 50 Minuten_
 
 # Farihas Lieblingsrezepte
 ## Farihas Lieblingsrezept aus der Heimat
+
 ## Kabuli Palau
 
 ![alt text](images/kabuli-palau.jpg "Kabuli Palau")
@@ -382,6 +384,7 @@ _Hier noch ein Video wie man die Kohlroueladen macht._
 ***
 # Hamids Lieblingsrezepte
 ## Hamids Lieblingsrezept aus der Heimat
+
 # Kabab koobideh
 ## Preparation and cooking
 
@@ -407,24 +410,87 @@ _Hier noch ein Video wie man die Kohlroueladen macht._
 
 >Currywurst (in Kombination mit Pommes frites) ist im Jahr 2020 zum 28. Mal in Folge beliebtestes Kantinenessen in Deutschland,[4] wurde aber 2021 durch Spaghetti Bolognese abgelöst.[5]
 
-
-
 ## In diesem Video sehen Sie, TOP 15 CURRYWURSTE IN BERLIN! DER GROßE TEST
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/jz1WqZ8lBYk/0.jpg)](http://www.youtube.com/watch?v=jz1WqZ8lBYk)
 
 ***
 
-# Houmans Lieblingsrezepte
-
 ## Houmans Lieblingsrezept aus der Heimat
 
+# Kabab Kubideh | Rezept
+
+![kubideh](images/kubideh.jpg "lecker")
+
+Kabab Kubideh - persischer Hackfleischspieß
+Zutaten (für 4 Portionen):
+
+- 1/2 kg Lammfaschiertes
+- 1/2 kg Rindfaschiertes
+- 3 Zwiebel
+- 1 TL Safran
+- 2 TL Sumach
+- 2 TL Kurkuma
+- Salz, Pfeffer
+- Kabab-Spieße (aus Metall mit flacher Klinge)
+
+###Kabab Kubideh: der Klassiker unter den persischen Grillspießen
+
+Kabab gehört zu den typischen Gerichten des Iran, hat aber mit dem bekannten türkischen Drehspieß gar nichts gemein. In der persischen Variante wird das Fleisch auf dünne flache Metallspieße gesteckt und am Holzkohlengrill zubereitet. Entscheidend für die Qualität ist die Qualität und Zartheit des Fleisches, gerade die persische Küche lebt von der Güte ihrer Zutaten. Die Feinheit der Rezeptkomposition und die Gewürzwahl ist darauf abgestimmt. Die typischen langen, abgeflachten Spieße und die Zubereitung am Holzkohlengrill geben dem persischen Kabab seinen einzigartigen, unverwechselbaren Geschmack.
+
 ## Houmans Lieblingsrezept aus Deutschland
+# Gulaschsuppe | Rezept
 
+![gulaschsuppe](images/gulaschsuppe.jpg "lecker")
 
+Gulaschsuppe nach ungarischer Art
+Zutaten (für 4 Portionen):
+
+- 600g Rindfleisch küchenfertig, aus der Schulter
+- 400g festkochende Kartoffeln
+- 300g Zwiebeln
+- 2    Knoblauchzehen
+- 2    rote Paprikaschoten
+- 1    rote Chilischote
+- 2 EL Butter
+- 2 EL edelsüßes Paprikapulver
+- 3 EL Tomatenmark
+- 1⅓l  Rindfleischbrühe
+- 1    Lorbeerblatt
+- 1 TL Kümmelsamen
+- 3    Pfefferkörner 
+       Salz 
+       Pfeffer aus der Mühle
+- 2    Stiele Majoran
+
+### Zubereitungsschritte
+
+1-
+    Fleisch waschen, trocken tupfen und in mundgerechte Stücke schneiden. Kartoffeln schälen, waschen und ebenfalls in mundgerechte Stücke schneiden.
+
+2-
+    Zwiebeln und Knoblauch schälen, Zwiebel in feine Streifen schneiden und Knoblauch fein hacken.
+
+3-
+    Paprikaschote halbieren, entkernen, waschen und in Würfel schneiden. Chilischote längs halbieren, entkernen, waschen und hacken.
+
+4-
+    In einem Topf Butter erhitzen und Fleisch portionsweise rundherum bei starker Hitze anbraten. Mit Paprikapulver würzen, herausnehmen und beiseitestellen.
+
+5-
+    Zwiebeln, Knoblauch und Chili im Bratenfett anbraten, Tomatenmark einrühren, mit Fleischbrühe ablöschen. Fleisch wieder einlegen und bei mittlerer Hitze etwa 1 1/2 Stunden schmoren lassen.
+
+6-
+    Zwischenzeitlich Lorbeerblatt, Kümmelsamen und Pfefferkörner in ein Teefilter geben. Nach etwa 1 Stunde zusammen mit Paprika und Kartoffeln zugeben und mitgaren.
+
+7-
+    Die ungarische Gulaschsuppe mit Salz und Pfeffer abschmecken, Gewürze entfernen und die Suppe in vorgewärmten Schälchen anrichten. Majoran waschen, trocken schütteln, Blättchen abzupfen und Suppe damit bestreut servieren.
+
+###  Bon Appétit
+
+***
 
 # Laszlos Lieblingsrezepte
-
 ## Lászlós Lieblingsrezept aus der Heimat
 
 ## Ungarisches Bohnengulasch
@@ -473,7 +539,6 @@ Durch das Rühren und die austretende Stärke der Bohnen dickt das Bohnengulasch
 Abschließend nach Geschmack mit Salz & Pfeffer aus der Mühle kräftig würzen.
 
 ## Lászlós Lieblingsrezept aus Deutschland
-
 ## Knuspriges Käsebrot
 
 ![alt text](https://images.lecker.de/express-erbsensuppe-mit-knusprigem-kaesebrot-lecker-04-2018-F5924103,id=c7e83336,b=lecker,w=610,cg=c.jpg "Bild bezeichnung was Ihr wollt")
@@ -496,19 +561,59 @@ Brotscheiben längs halbieren, auf das Blech legen. Käse reiben, auf das Brot s
 
 Gefrorene Erbsen in der Suppe ca. 5 Minuten kochen. Suppe grob pürieren. Mit Salz und Pfeffer abschmecken. Mit Brot anrichten.
 
-# Mahmuts Lieblingsrezepte
+***
 
-## Mahmuts Lieblingsrezept aus der Heimat
+# Mahmuts Lieblingsrezept
+# Baked Beans mit Gemüse
+### Zutaten für
+ 
+ ***
 
-## Mahmuts Lieblingsrezept aus Deutschland
+1. _500 g_	Bohnen, weiße, getrocknete
+
+2.  _3 Zehe/n_	Knoblauch
+
+3.  _1.000 g_	Tomaten, passierte
+
+4.  _1 EL_	Zuckerrübensirup
+
+5. _2 EL_	Essig
+
+7.  _400 g_	Gemüse (Lauch, Karotte, Blumenkohl, Mais)
+
+### Nährwerte pro Portion
+
+***
+
+- kcal 186
+
+- Eiweiß 9,76 g
+
+- Fett 3,27 g
+
+- Kohlenhydr. 27,44 g
 
 
+![Beans mit Gemüse] (https://img.chefkoch-cdn.de/rezepte/2741711426255186/bilder/873173/crop-600x400/baked-beans-mit-gemuese.jpg "Beans")
 
+
+> Die weißen Bohnen am Vortag einweichen. Am nächsten Tag die Bohnen in ca. 60 Min. gar kochen.
+In einem zweiten Topf Öl erhitzen und darin die Zwiebeln und den Knoblauch kurz anschwitzen. Die passierten Tomaten, Gewürze, Sirup, Essig und Senf dazugeben. Das Gemüse nach Wahl z. B. Mais, Erbsen, Karotten, Kohl usw. dazugeben und 30 Minuten kochen lassen. Die gekochten Bohnen abgießen und zur Soße geben, kurz nochmal aufkochen lassen.
+Dazu passen Brot, Nudeln, Reis oder Kartoffelbrei.
+Funktioniert auch mit Wachtelbohnen, Schwarzaugenbohnen, Kidneybohnen. Wenn es schnell gehen soll, kann man auch einfach statt des Gemüses 1 Paket Buttergemüse verwenden, ist dann aber nicht mehr vegan.
+
+---
+
+Sie können einfach durch Video sehen
+
+[![Leckeres Beans](http://img.youtube.com/vi/VAaw7d6FQ80/0.jpg )](https://www.youtube.com/watch?v=VAaw7d6FQ80)
+
+***
 # Mariannas Lieblingsrezepte
-
 ## Mariannas Lieblingsrezept aus der Heimat
-
 ## Piroggen mit Fleischfüllung
+
+![alt text](images/piroggen.jpeg "Piroggen")
 
 ## Zutaten
 
@@ -521,7 +626,7 @@ Gefrorene Erbsen in der Suppe ca. 5 Minuten kochen. Suppe grob pürieren. Mit Sa
 - 550 g Mehl
 - 10 g Hefe (trocken)
 - 500 ml Pflanzenöl
-- 
+
 ## Zubereitung
 
 1. In warme Milch hinzufügen: Salz, Zucker, Trockenhefe. Umrühren. 100 g Mehl dazugeben, umrühren und 20 min. lang bedeckt mit einem sauberen Handtuch an einem warmen Ort stehen lassen.
@@ -531,16 +636,75 @@ Gefrorene Erbsen in der Suppe ca. 5 Minuten kochen. Suppe grob pürieren. Mit Sa
 5. Öl in die Pfanne geben. Piroggen ins Öl legen. Von jeder Seite 2 Min. lang braten. Piroggen von allen Seiten durchbraten. Servieren.
 
 ## Mariannas Lieblingsrezept aus Deutschland
+## Heringssalat
 
+![alt text](images/heringssalat.jpeg "Heringssalat")
 
+## Zutaten
+
+- 250 g Matjesheringe
+- 1 große rote Zwiebel
+- 2 Rote Beten, gekocht
+- 2 Essiggurken
+- 50 ml Buttermilch
+- 3 Stängel Dill
+- 1 Beet Kresse
+- Salz
+- Pfeffer
+
+## Zubereitung
+
+1. Rote Bete und Essiggurken in Würfel schneiden. Zwiebel schälen und in feine Ringe schneiden.
+
+2. Alles vermischen und Buttermilch angießen. Salzen und pfeffern. Den Dill hacken und 1/2 der Kresse schneiden.
+
+3. Den Hering in ca. 2 cm dicke Stücke schneiden und dazugeben, noch einmal alles gut vermischen und mit der restlichen Kresse garnieren.
+
+### Guten Appetit!
+
+***
 
 # Mustaphas Lieblingsrezepte
-
 ## Mustaphas Lieblingsrezept aus der Heimat
+
+![alt text](images/Tabole.jpg "Testbild")
+
+# Taboule – Petersiliensalat
+## Zubereitung
+
+ZUTATEN:
+
+> 1 großes Bund Petersilie
+
+> 3 Rispentomaten - oder entsprechend mehr Minitomaten
+
+> 1 Zwiebel
+
+> 1 Zitrone
+
+> 2 Zweige Minze - nur die Blätter
+
+> 40 g feiner Bulgur
+
+> 1 Prise Zimt
+
+> Olivenöl - nach Geschmack, nicht damit sparen!
+
+> Salz, Pfeffer
+
+ Zum Servieren: Romana-Salat
+
+1. Die Petersilie und Minze fein hacken.– Wie fein genau Du die Petersilie hackst, ist Dir überlassen. Ich persönlich würde sie nicht pürieren, da dem Salat ansonsten der Biss fehlt.
+2. Zwiebel sehr fein hacken.– ein extra Tipp zwischendurch: gib direkt beim Hacken der Zwiebel Salz, Pfeffer und einen Hauch Zimt hinzu und hacke die Gewürze mit durch. Es entsteht eine Zwiebel-Gewürzmischung.
+3. Die Tomaten fein würfeln und mit den Zwiebeln zur Minze und Petersilie geben.
+4. Um den Bulgur zu garen, übergieße ihn mit warmen Wasser und lass ihn kurz ziehen. Achte darauf, dass er nicht zu weich wird. Der Bulgur darf ruhig etwas „Al Dente“ sein. Gieße das restliche Wasser ab und gib den Bulgur anschließend zur Petersilie.
+5. Zitrone auspressen.
+6. Zum Schluss vorsichtig Zitronensaft und Olivenöl hinzugeben und alle Zutaten miteinander vermengen.– einige Zitronen geben mehr Saft als andere. Deshalb würde ich erstmal nur die Hälfte vom Zitronensaft dazugeben und später eventuell mehr. Und: spare nicht am Olivenöl.
+7. Probiere anschließend, ob Dir das Verhältnis zwischen Säure und Salz schmeckt. Würze evtl. noch einmal mit Salz, Pfeffer, Zimt und Zitrone nach.
 
 ## Mustaphas Lieblingsrezept aus Deutschland
 
-Fruchtiger Rotkohl mit Portwein
+### Fruchtiger Rotkohl mit Portwein
 
 ---
 
@@ -569,20 +733,14 @@ Fruchtiger Rotkohl mit Portwein
 - Orangensaft, Rotkohl, Preiselbeeren und den Apfel zufügen und alles zugedeckt bei mittlerer Hitze weich dünsten, das dauert 40 - 60 Minuten, hängt vom Rotkohl ab. Dabei öfter umrühren und immer wieder probieren ob der Rotkohl schon gar ist, zum Schluss noch einmal abschmecken.
 - Den Rotkohl vor dem Servieren noch neben dem Herd ein paar Minuten nachziehen lassen. 
 
-
-
+***
 # Obadahs Lieblingsrezepte
-
-## Obadahs Lieblingsrezept aus der Heimat
-
+## Obadahs Lieblingsrezept aus der 
 ## Obadahs Lieblingsrezept aus Deutschland
 
-
-
+***
 # Przemyslaws Lieblingsrezepte
-
 ## Przemyslaws Lieblingsrezept aus der Heimat
-
 ## Rezept veganer Bigos
 
 ![veganer Bigos](https://cdn.gutekueche.de/upload/rezept/2223/bigosch.jpg "veganer Bigos")
@@ -616,13 +774,11 @@ Fruchtiger Rotkohl mit Portwein
 - Alle Zutaten in einen Topf geben und so lange kochen bis das Sauerkraut weich ist
 - zwischendurch das Wasser vom Sauerkraut nach belieben dazugeben
 
-...
+***
 
 **Bitte heiß servieren**
 
 [siehe auch ein Rezept mit Fleisch](https://www.gutekueche.de/bigosch-rezept-2223)
-
-<a href="https://www.gutekueche.de/bigosch-rezept-2223" target="_blank">siehe auch ein Rezept mit Fleich</a>
 
 ## Przemyslaws Lieblingsrezept aus Deutschland
 
@@ -652,12 +808,8 @@ Fruchtiger Rotkohl mit Portwein
 
 **_Lecker_**
 
-
-
 # Saeeds Lieblingsrezepte
-
 ## Saeeds Lieblingsrezept aus der Heimat
-
 ## Ghorme Sabzi
 
 **Zutaten**
@@ -706,7 +858,6 @@ Ghormeh Sabzi mit normalen Reis oder Safranreis servieren. Das persische Gericht
 ![Ghormeh sabzi](images/ghormeh-sabzi.jpg "testbild")
 
 ## Saeeds Lieblingsrezept aus Deutschland
-
 ## Kürbissuppe
 
 **Zutaten**
@@ -734,21 +885,16 @@ ganz einfach
 3. Ca. 3/4 der Sahne zufügen und alles fein pürieren. Noch einmal abschmecken. Kürbissuppe mit Rest Sahne und nach Belieben mit Pfeffer, gehackter Petersilie und Chiliflocken anrichten und servieren.
 4. Tipp: Kürbissuppe einfrieren! Dafür die abgekühlte Suppe in Gefrierdosen oder Gefrierbeutel geben, fest verschließen und ins Tiefkühlfach legen. Zum Auftauen einige Stunden vor dem Aufwärmen in den Kühlschrank stellen.
 
-![Kürbis suppe](images/Kürbissuppe.png "testbild")
-
+![Kürbis suppe](images/Kuerbissuppe.jpg "testbild")
 
 # Sidars Lieblingsrezepte
-
 ## Sidars Lieblingsrezept aus der Heimat
-
 ## Sidars Lieblingsrezept aus Deutschland
 
-
+***
 
 # Soonams Lieblingsrezepte
-
 ## Soonams Lieblingsrezept aus der Heimat
-
 ## Bibimbap
 
 **Bibimbap ist ein beliebtes koreanisches Gericht, das mit Reis und verschiedenen Gemüsesorten, etwas Rindfleisch oder Tofu, einem rohen oder gebratenen Ei und Gochujang zubereitet wird. Als klassisches Resteessen gibt es kaum Einschränkungen bei der Wahl der Zutaten und unzählige Variationen.**
@@ -782,7 +928,6 @@ Klick unten, um das Video zu starten
 > **"Bibimbab geht immer!"**
 
 ## Soonams Lieblingsrezept aus Deutschland
-
 ## Currywurst
 
 **Currywurst ist sehr lecker**
@@ -795,9 +940,8 @@ Die kleingeschnittenen Zwiebeln in Olivenöl glasig dünsten. Etwas Tomatenmark 
 
 > "Die Zeiten ändern sich, nur die Currywurst nicht"
 
+***
 
 # Tanjus Lieblingsrezepte
-
 ## Tanjus Lieblingsrezept aus der Heimat
-
 ## Tanjus Lieblingsrezept aus Deutschland
