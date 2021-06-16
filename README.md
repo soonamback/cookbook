@@ -7,7 +7,7 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 2. [Alis Lieblingsrezepte](#alis-lieblingsrezepte)
 3. [Camilas Lieblingsrezepte](#camilas-lieblingsrezepte)
 4. [Farihas Lieblingsrezepte](#farihas-lieblingsrezepte)
-5. [Hamids Lieblingsrezepte]
+5. [Hamids Lieblingsrezepte](#hamid-lieblingsrezepte)
 6. [Houmans Lieblingsrezepte]
 7. [Lászlós Lieblingsrezepte](#laszlos-lieblingsrezepte)
 7. [Mahmuts Lieblingsrezepte]
@@ -24,156 +24,121 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 
 # Ahmads Lieblingsrezepte
 # Pasta in cremiger Puten-Champignon-Sauce
-​
-​
-​
-​
 ## Zutaten
-​
-​
 ```
- Putenbrustfilets                                                                     600 g 
+Putenbrustfilets                                                                      600 g 
 ```
-​
-​
 ```
- Champignons, weiß                                                                    800 g 
+Champignons, weiß                                                                     800 g 
 ```
-​
 ```
- Basilikum, frisch                                                                     30g
-​
+​Basilikum, frisch                                                                       30g
+```
+```
+Salz
+```
+```
+Spaghetti                                                                              500 g 
+```
+```
+Öl                                                                                      3 EL
+```
+```
+Pfeffer, schwarz
+```
+```
+Balsamicoessig, hell                                                                    4 EL 
+```
+```
+Frischkäse, natur                                                                       100 g 
  ```
-​
- ```
- Salz
-​
-```
-```
- Spaghetti                                                                            500 g 
-​
-```
-​
-```
- Öl 3 EL
- ```
- ```
- Pfeffer, schwarz
-```
-```
-  Balsamicoessig, hell                                                                  4 EL 
-```
-```
- Frischkäse, natur                                                                    100 g 
- ```
-​
-​
 ​
 <iframe width="810" height="456" src="https://www.youtube.com/embed/L4GhsPvgLBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ​
 ​
+1. Pilze ggf. mit Küchenkrepp säubern und sechsteln. Basilikum waschen, trocken schütteln, Blätter von den Stielen zupfen und fein schneiden. Pute waschen, trocken tupfen und grob würfeln.  
+
+![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703647/pasta-in-cremiger-puten-champignon-sauce-147788_step_1.jpg)
 ​
-1. Pilze ggf. mit Küchenkrepp säubern und sechsteln. Basilikum waschen, trocken schütteln, Blätter von den Stielen zupfen und fein schneiden. Pute waschen, trocken tupfen und grob würfeln.  ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703647/pasta-in-cremiger-puten-champignon-sauce-147788_step_1.jpg)
-​
-​
-2. In einem Topf ca. 5 l Salzwasser aufkochen. Pasta im siedenden Salzwasser ca. 9 Min. al dente garen. ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703648/pasta-in-cremiger-puten-champignon-sauce-147788_step_2.jpg)
+2. In einem Topf ca. 5 l Salzwasser aufkochen. Pasta im siedenden Salzwasser ca. 9 Min. al dente garen. 
+
+![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703648/pasta-in-cremiger-puten-champignon-sauce-147788_step_2.jpg)
 ​
 3. In einer Pfanne 1 EL Öl auf hoher Stufe erhitzen und Putenwürfel ca. 4 Min. rundherum anbraten. Danach pfeffern und auf einem Teller beiseitestellen. 2 EL Öl im Bratensatz in der Pfanne auf hoher Stufe erhitzen und Pilze darin ca. 2–3 Min. scharf anbraten. Danach mit 2 EL Balsamico ablöschen und mit Salz und Pfeffer würzen. 
-​
+​ 
+
  ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703649/pasta-in-cremiger-puten-champignon-sauce-147788_step_3.jpg)
-​
-​
+
 4. Spaghetti im Sieb abgießen und Kochwasser dabei auffangen. 1–2 Kellen Kochwasser, Putenwürfel, Frischkäse und die Hälfte des Basilikums in die Pfanne geben, alles vermengen und mit Salz und Pfeffer abschmecken. Spaghetti dazugeben und mit der Sauce vermengen. Spaghetti in cremiger Puten-Pilz-Sauce auf Tellern anrichten, restliches Basilikum darüberstreuen und servieren. 
+
 ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703650/pasta-in-cremiger-puten-champignon-sauce-147788_step_4.jpg)
 ​
+
 Guten Appetit! 
-​
-​
- ***
+
+***
 ​
 # Tagliatelle mit Spinat und Hähnchen
-​
-​
-​
-​
-## Zutaten
-​
-​
+## Zutaten 
 ```
-Hähnchenbrustfilets                                                                     600 g 
-```
-​
-​
-```
- Zwiebeln, rot                                                                          1 St. 
-```
-​
-```
- Öl                                                                                       3 EL 
-​
- ```
-​
- ```
- Salz
-​
+Hähnchenbrustfilets                                                                   600 g
 ```
 ```
-Schlagsahne                                                                             150 ml 
-​
-```
-​
-```
-Tagliatelle, frisch                                                                      500 g 
- ```
- ```
- Olivenöl                                                                                1 EL 
+Zwiebeln, rot 1 Stk
 ```
 ```
-Blattspinat                                                                             300 g 
+Öl                                                                                     3 EL
 ```
 ```
- Pfeffer, schwarz
+Salz
+```
+```
+Schlagsahne                                                                           150 ml 
+```
+```
+Tagliatelle, frisch                                                                    500 g 
+
+```
+```
+Olivenöl                                                                                1 EL 
+```
+```
+Blattspinat                                                                            300 g 
+```
+```
+Pfeffer, schwarz
 	
- ```
-​
-​
-​
-​
-​
-​
-​
-​
-​
+```
+
 <iframe width="810" height="456" src="https://www.youtube.com/embed/pbPPdheBd1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ​
 1. In einem Topf ca. 4 l Salzwasser zugedeckt aufkochen. Hähnchen waschen, trocken tupfen, ggf. von Sehnen befreien und in ca. 3–4 cm große Stücke Fleisch schneiden. Zwiebel halbieren, schälen und in dünne Streifen schneiden.  
- ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629853/tagliatelle-mit-spinat-und-haehnchen-144482_step_1.jpg)
+
+![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629853/tagliatelle-mit-spinat-und-haehnchen-144482_step_1.jpg)
 ​
 ​
-2. In einer Pfanne 2 EL Öl auf hoher Stufe erhitzen und Hähnchen darin ca. 3–4 Min. scharf anbraten. Anschließend Hähnchen auf einem Teller beiseitelegen. Pfanne nicht säubern, 1 EL Öl zugeben und Zwiebeln darin auf mittlerer Stufe ca. 3 Min. anschwitzen. Mit Sahne ablöschen, aufkochen und auf mittlerer Stufe ca. 3–4 Min. einköcheln, sodass eine sämige Soße entsteht.  ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629854/tagliatelle-mit-spinat-und-haehnchen-144482_step_2.jpg)
+2. In einer Pfanne 2 EL Öl auf hoher Stufe erhitzen und Hähnchen darin ca. 3–4 Min. scharf anbraten. Anschließend Hähnchen auf einem Teller beiseitelegen. Pfanne nicht säubern, 1 EL Öl zugeben und Zwiebeln darin auf mittlerer Stufe ca. 3 Min. anschwitzen. Mit Sahne ablöschen, aufkochen und auf mittlerer Stufe ca. 3–4 Min. einköcheln, sodass eine sämige Soße entsteht.  
+
+![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629854/tagliatelle-mit-spinat-und-haehnchen-144482_step_2.jpg)
 ​
 3. Inzwischen Tagliatelle im kochenden Salzwasser ca. 4 Min. bissfest garen. Anschließend die Nudeln in einem Sieb abgießen. Tagliatelle nicht abschrecken, sondern mit 1 EL Olivenöl mischen und beiseitestellen. 
- ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629855/tagliatelle-mit-spinat-und-haehnchen-144482_step_3.jpg)
+
+![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629855/tagliatelle-mit-spinat-und-haehnchen-144482_step_3.jpg)
 ​
 4. Spinat waschen und trocken schleudern. Spinat zur Zwiebel-Sahne-Mischung geben und unter Rühren ca. 1–2 Min. zusammenfallen lassen. Hähnchen ebenfalls wieder zugeben und ca. 1–2 Min. warm ziehen lassen. Alles würzig mit Salz und Pfeffer abschmecken. 
+
 ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629856/tagliatelle-mit-spinat-und-haehnchen-144482_step_4.jpg)
 ​
-5. In der Pfanne Tagliatelle, Spinat-Sahnesoße und das Hähnchen vermengen und ggf. nachwürzen. Tagliatelle mit Hähnchen und Spinat-Sahnesoße in tiefen Tellern anrichten und servieren. ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629857/tagliatelle-mit-spinat-und-haehnchen-144482_step_5.jpg)
+5. In der Pfanne Tagliatelle, Spinat-Sahnesoße und das Hähnchen vermengen und ggf. nachwürzen. Tagliatelle mit Hähnchen und Spinat-Sahnesoße in tiefen Tellern anrichten und servieren. 
+
+![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629857/tagliatelle-mit-spinat-und-haehnchen-144482_step_5.jpg)
 ​
+
 Guten Appetit!
 
-## Ahmads Lieblingsrezept aus der Heimat
-
-
-
-## Ahmads Lieblingsrezept aus Deutschland
-
-
-
+***
 # Alis Lieblingsrezepte
-
 ## Alis Lieblingsrezept aus der Heimat
-
 ## MAKARONNI GERICHT
 
 ![alt text](https://media-cdn.tripadvisor.com/media/photo-s/08/39/f2/80/makaroni-italian-restaurant.jpg)
@@ -193,7 +158,7 @@ Guten Appetit!
 
 **Alle Zutaten in einem Standmixer vermengen.**
 ​
-> Öl in einer Pfanne erhitzen und jeweils zwei Esslöffel     Teig für einen Pancake bei mittlerer Hitze braten.​
+> Öl in einer Pfanne erhitzen und jeweils zwei Esslöffel Teig für einen Pancake bei mittlerer Hitze braten.​
 
 >  **Tipps:** Jede andere Pflanzenmilch ist möglich. Das Reismehl kann z. B. durch Haferflockenmehl ersetzt werden.
 
@@ -231,15 +196,8 @@ Guten Appetit!
  Steaks herausnehmen, fest in Backpapier wickeln, 5 Minuten ruhen lassen. Rauke verlesen, abspülen, trocknen. Mit Walnüssen, Roter Bete, restlichem Öl, Salz und Pfeffer mischen. Zu den Steaks servieren.
 
 ##  GUTEN APPETITE
-
-
-
 # Camilas Lieblingsrezepte
-
-pommes
-
 ## Camilas Lieblingsrezept aus der Heimat
-
 ## Käsebällchen (Aus Brasilien)
 
 Auf Portugiesisch sagt man **Pão de queijo** *(etwas wie Pawn di Keisho)*​
@@ -276,15 +234,59 @@ Nach Ende der Backzeit sind sie von außen leicht knusprig und von innen herrlic
 ```
 Guten Appetit!
 ```
-
 ## Camilas Lieblingsrezept aus Deutschland
+# Hamburger Labskaus
+#### (aus Hamburg, Deutschland)
 
+![alt text] (https://img.chefkoch-cdn.de/rezepte/458841138967721/bilder/983747/crop-600x400/hamburger-labskaus.jpg "Hamburger Labskaus")
 
+_Arbeitszeit ca. 25 Minuten_
+
+_Koch-/Backzeit ca. 25 Minuten_
+
+_Gesamtzeit ca. 50 Minuten_
+
+###ZUTATEN:
+
+```
+- 1 Dose        `Corned Beef`
+
+- 750 g          `Kartoffel(n), geschält`
+
+- 3             `Gewürzgurke(n)`
+
+- 2             `Zwiebel(n)`
+
+- 4             `Eier`
+
+- 4             `Matjesfilets, Bismarckheringe oder Rollmöpse`
+
+- etwas:	
+        Rote Bete;
+        Salz und Pfeffer;
+        Piment, gemahlen;
+        Margarine zum Braten;
+        Gurkenflüssigkeit
+```
+
+###ZUBEREITUNG:
+
+1. Die Kartoffeln als Salzkartoffeln kochen;
+
+2. In der Zwischenzeit die klein gewürfelten Zwiebeln in etwas Fett andünsten, bis sie blond sind; Das klein geschnittene Corned Beef zufügen und mit Deckel etwa 3 Minuten dünsten; Dann die gewürfelten Gewürzgurken mit etwas vom Gurkensud zufügen; Mit Salz, Pfeffer und Piment herzhaft abschmecken; Wenn gewünscht, eventuell noch etwas gewürfelte Rote Beete zugeben. Alles etwa 10 Minuten leicht köcheln lassen;
+
+3. Die fertig gegarten Kartoffeln etwas stampfen, jedoch nicht so fein wie für Püree! Den Corned Beef Mix unterrühren. Wenn die Mischung zu fest ist, noch etwas Gurkenwasser unterrühren;
+
+4. Auf Teller füllen. Mit **Spiegelei** und nach Geschmack mit **Matjes, Bismarckhering** oder **Rollmops** servieren.
+
+###VIDEO:
+
+[![YouTube Video](http://img.youtube.com/vi/_4nrbwXphsc/0.jpg)](http://www.youtube.com/watch?v=_4nrbwXphsc)
+
+#```Guten Appetite!``` 
 
 # Farihas Lieblingsrezepte
-
 ## Farihas Lieblingsrezept aus der Heimat
-
 ## Kabuli Palau
 
 ![alt text](images/kabuli-palau.jpg "Kabuli Palau")
@@ -329,7 +331,7 @@ _Hier noch ein Video wie man Kabuli Palau kocht._
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/UqK_ox7FF00/0.jpg)](http://www.youtube.com/watch?v=UqK_ox7FF00)
 
-_Guten Apetit!_
+###_Guten Apetit!_
 
 Auf afghanisch: _Ishtiyahe khub!_ 
 
@@ -340,7 +342,7 @@ Auf afghanisch: _Ishtiyahe khub!_
 ![alt text](images/kohlrouladen.jpg "Kohlrouladen")
 
 ---
-
+S
 **Das Rezept**
 
 **_Zutaten für 6 Personen_**
@@ -375,17 +377,43 @@ _Hier noch ein Video wie man die Kohlroueladen macht._
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0EzttZ4vM10/0.jpg)](http://www.youtube.com/watch?v=0EzttZ4vM10)
 
-_Guten Apetit!_
+###_Guten Apetit!_
 
-
-
+***
 # Hamids Lieblingsrezepte
-
 ## Hamids Lieblingsrezept aus der Heimat
+# Kabab koobideh
+## Preparation and cooking
+
+![alt text](images/2.jpg "KEBAB")
+
+>Lamb or beef (precisely 20% fat, 80% meat) is minced twice for finerconsistency. Salt, black pepper, very finely grated onion and optionally one egg yolk per pound of meat is added. All ingredients are mixed, covered, and left to marinate in the refrigerator for at least one hour or overnight.
+
+>Kabab koobideh is grilled on wide, flat skewers, traditionally over hot coals, and is served with chelow (Iranian plain white rice with oil, salt and saffron), accompanied by grilled tomatoes and onions. Sumac is usually served as a tableside garnishing spice.
+
+>Chicken kabab koobideh is made using chives or green onions, parsley, salt and pepper—no turmeric and no sumac. It is served over baghali polo (dill and broad bean rice pilaf).
+
+
+## In diesem Video sehen Sie, wie man Kebab zubereitet
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/nFZMZChXL3w/0.jpg)](http://www.youtube.com/watch?v=nFZMZChXL3w)
 
 ## Hamids Lieblingsrezept aus Deutschland
+# Currywurst
+
+![alt text](images/4.jpeg "Currywurst")
+
+>ist ein Gericht aus Brat- oder anderer Brühwurst, die ganz oder geschnitten mit einer tomatenhaltigen Sauce und Currypulver oder mit einem Curry-Ketchup serviert wird. Sie wird der Deutschen Küche zugerechnet. Bei den Würsten handelt es sich meist um feine, vorgegarte Brühwürste mit oder ohne Darm. Serviert wird das seit der Nachkriegszeit bekannte Gericht vor allem in der Imbiss­gastronomie. Es ist außerdem ein beliebtes Angebot in deutschen Betriebskantinen[1][2] und auch als Fertiggericht für Privathaushalte erhältlich.
+
+>Currywurst (in Kombination mit Pommes frites) ist im Jahr 2020 zum 28. Mal in Folge beliebtestes Kantinenessen in Deutschland,[4] wurde aber 2021 durch Spaghetti Bolognese abgelöst.[5]
 
 
+
+## In diesem Video sehen Sie, TOP 15 CURRYWURSTE IN BERLIN! DER GROßE TEST
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/jz1WqZ8lBYk/0.jpg)](http://www.youtube.com/watch?v=jz1WqZ8lBYk)
+
+***
 
 # Houmans Lieblingsrezepte
 
