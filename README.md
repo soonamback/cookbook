@@ -3,14 +3,14 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 
 ## Inhalt
 
-1. [Ahmads Lieblingsrezepte]
+1. [Ahmads Lieblingsrezepte](#ahmads-lieblingsrezepte)
 2. [Alis Lieblingsrezepte](#alis-lieblingsrezepte)
 3. [Camilas Lieblingsrezepte](#camilas-lieblingsrezepte)
 4. [Farihas Lieblingsrezepte](#farihas-lieblingsrezepte)
-5. [Hamids Lieblingsrezepte]
-6. [Houmans Lieblingsrezepte]
+5. [Hamids Lieblingsrezepte](#hamid-lieblingsrezepte)
+6. [Houmans Lieblingsrezepte](#houmans-lieblingsrzepte)
 7. [Lászlós Lieblingsrezepte](#laszlos-lieblingsrezepte)
-7. [Mahmuts Lieblingsrezepte]
+7. [Mahmuts Lieblingsrezepte](#mahmuts-lieblingsrezepte)
 8. [Mariannas Lieblingsrezepte](#mariannas-lieblingsrezepte)
 9. [Mustaphas Lieblingsrezepte](#mustaphas-lieblingsrezepte)
 10. [Obadahs Lieblingsrezepte]
@@ -24,155 +24,120 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 
 # Ahmads Lieblingsrezepte
 # Pasta in cremiger Puten-Champignon-Sauce
-​
-​
-​
-​
 ## Zutaten
-​
-​
 ```
- Putenbrustfilets                                                                     600 g 
+Putenbrustfilets                                                                      600 g 
 ```
-​
-​
 ```
- Champignons, weiß                                                                    800 g 
+Champignons, weiß                                                                     800 g 
 ```
-​
 ```
- Basilikum, frisch                                                                     30g
-​
+​Basilikum, frisch                                                                       30g
+```
+```
+Salz
+```
+```
+Spaghetti                                                                              500 g 
+```
+```
+Öl                                                                                      3 EL
+```
+```
+Pfeffer, schwarz
+```
+```
+Balsamicoessig, hell                                                                    4 EL 
+```
+```
+Frischkäse, natur                                                                       100 g 
  ```
-​
- ```
- Salz
-​
-```
-```
- Spaghetti                                                                            500 g 
-​
-```
-​
-```
- Öl 3 EL
- ```
- ```
- Pfeffer, schwarz
-```
-```
-  Balsamicoessig, hell                                                                  4 EL 
-```
-```
- Frischkäse, natur                                                                    100 g 
- ```
+​<iframe width="810" height="456" src="https://www.youtube.com/embed/L4GhsPvgLBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ​
 ​
+1. Pilze ggf. mit Küchenkrepp säubern und sechsteln. Basilikum waschen, trocken schütteln, Blätter von den Stielen zupfen und fein schneiden. Pute waschen, trocken tupfen und grob würfeln.  
+
+![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703647/pasta-in-cremiger-puten-champignon-sauce-147788_step_1.jpg)
 ​
-<iframe width="810" height="456" src="https://www.youtube.com/embed/L4GhsPvgLBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-​
-​
-​
-1. Pilze ggf. mit Küchenkrepp säubern und sechsteln. Basilikum waschen, trocken schütteln, Blätter von den Stielen zupfen und fein schneiden. Pute waschen, trocken tupfen und grob würfeln.  ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703647/pasta-in-cremiger-puten-champignon-sauce-147788_step_1.jpg)
-​
-​
-2. In einem Topf ca. 5 l Salzwasser aufkochen. Pasta im siedenden Salzwasser ca. 9 Min. al dente garen. ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703648/pasta-in-cremiger-puten-champignon-sauce-147788_step_2.jpg)
+2. In einem Topf ca. 5 l Salzwasser aufkochen. Pasta im siedenden Salzwasser ca. 9 Min. al dente garen. 
+
+![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703648/pasta-in-cremiger-puten-champignon-sauce-147788_step_2.jpg)
 ​
 3. In einer Pfanne 1 EL Öl auf hoher Stufe erhitzen und Putenwürfel ca. 4 Min. rundherum anbraten. Danach pfeffern und auf einem Teller beiseitestellen. 2 EL Öl im Bratensatz in der Pfanne auf hoher Stufe erhitzen und Pilze darin ca. 2–3 Min. scharf anbraten. Danach mit 2 EL Balsamico ablöschen und mit Salz und Pfeffer würzen. 
-​
+​ 
+
  ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703649/pasta-in-cremiger-puten-champignon-sauce-147788_step_3.jpg)
-​
-​
+
 4. Spaghetti im Sieb abgießen und Kochwasser dabei auffangen. 1–2 Kellen Kochwasser, Putenwürfel, Frischkäse und die Hälfte des Basilikums in die Pfanne geben, alles vermengen und mit Salz und Pfeffer abschmecken. Spaghetti dazugeben und mit der Sauce vermengen. Spaghetti in cremiger Puten-Pilz-Sauce auf Tellern anrichten, restliches Basilikum darüberstreuen und servieren. 
+
 ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/703650/pasta-in-cremiger-puten-champignon-sauce-147788_step_4.jpg)
 ​
+
 Guten Appetit! 
-​
-​
- ***
+
+***
 ​
 # Tagliatelle mit Spinat und Hähnchen
-​
-​
-​
-​
-## Zutaten
-​
-​
+## Zutaten 
 ```
-Hähnchenbrustfilets                                                                     600 g 
-```
-​
-​
-```
- Zwiebeln, rot                                                                          1 St. 
-```
-​
-```
- Öl                                                                                       3 EL 
-​
- ```
-​
- ```
- Salz
-​
+Hähnchenbrustfilets                                                                   600 g
 ```
 ```
-Schlagsahne                                                                             150 ml 
-​
-```
-​
-```
-Tagliatelle, frisch                                                                      500 g 
- ```
- ```
- Olivenöl                                                                                1 EL 
+Zwiebeln, rot 1 Stk
 ```
 ```
-Blattspinat                                                                             300 g 
+Öl                                                                                     3 EL
 ```
 ```
- Pfeffer, schwarz
+Salz
+```
+```
+Schlagsahne                                                                           150 ml 
+```
+```
+Tagliatelle, frisch                                                                    500 g 
+
+```
+```
+Olivenöl                                                                                1 EL 
+```
+```
+Blattspinat                                                                            300 g 
+```
+```
+Pfeffer, schwarz
 	
- ```
-​
-​
-​
-​
-​
-​
-​
-​
-​
+```
+
 <iframe width="810" height="456" src="https://www.youtube.com/embed/pbPPdheBd1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ​
 1. In einem Topf ca. 4 l Salzwasser zugedeckt aufkochen. Hähnchen waschen, trocken tupfen, ggf. von Sehnen befreien und in ca. 3–4 cm große Stücke Fleisch schneiden. Zwiebel halbieren, schälen und in dünne Streifen schneiden.  
- ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629853/tagliatelle-mit-spinat-und-haehnchen-144482_step_1.jpg)
+
+![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629853/tagliatelle-mit-spinat-und-haehnchen-144482_step_1.jpg)
 ​
 ​
-2. In einer Pfanne 2 EL Öl auf hoher Stufe erhitzen und Hähnchen darin ca. 3–4 Min. scharf anbraten. Anschließend Hähnchen auf einem Teller beiseitelegen. Pfanne nicht säubern, 1 EL Öl zugeben und Zwiebeln darin auf mittlerer Stufe ca. 3 Min. anschwitzen. Mit Sahne ablöschen, aufkochen und auf mittlerer Stufe ca. 3–4 Min. einköcheln, sodass eine sämige Soße entsteht.  ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629854/tagliatelle-mit-spinat-und-haehnchen-144482_step_2.jpg)
+2. In einer Pfanne 2 EL Öl auf hoher Stufe erhitzen und Hähnchen darin ca. 3–4 Min. scharf anbraten. Anschließend Hähnchen auf einem Teller beiseitelegen. Pfanne nicht säubern, 1 EL Öl zugeben und Zwiebeln darin auf mittlerer Stufe ca. 3 Min. anschwitzen. Mit Sahne ablöschen, aufkochen und auf mittlerer Stufe ca. 3–4 Min. einköcheln, sodass eine sämige Soße entsteht.  
+
+![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629854/tagliatelle-mit-spinat-und-haehnchen-144482_step_2.jpg)
 ​
 3. Inzwischen Tagliatelle im kochenden Salzwasser ca. 4 Min. bissfest garen. Anschließend die Nudeln in einem Sieb abgießen. Tagliatelle nicht abschrecken, sondern mit 1 EL Olivenöl mischen und beiseitestellen. 
- ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629855/tagliatelle-mit-spinat-und-haehnchen-144482_step_3.jpg)
+
+![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629855/tagliatelle-mit-spinat-und-haehnchen-144482_step_3.jpg)
 ​
 4. Spinat waschen und trocken schleudern. Spinat zur Zwiebel-Sahne-Mischung geben und unter Rühren ca. 1–2 Min. zusammenfallen lassen. Hähnchen ebenfalls wieder zugeben und ca. 1–2 Min. warm ziehen lassen. Alles würzig mit Salz und Pfeffer abschmecken. 
+
 ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629856/tagliatelle-mit-spinat-und-haehnchen-144482_step_4.jpg)
 ​
-5. In der Pfanne Tagliatelle, Spinat-Sahnesoße und das Hähnchen vermengen und ggf. nachwürzen. Tagliatelle mit Hähnchen und Spinat-Sahnesoße in tiefen Tellern anrichten und servieren. ![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629857/tagliatelle-mit-spinat-und-haehnchen-144482_step_5.jpg)
+5. In der Pfanne Tagliatelle, Spinat-Sahnesoße und das Hähnchen vermengen und ggf. nachwürzen. Tagliatelle mit Hähnchen und Spinat-Sahnesoße in tiefen Tellern anrichten und servieren. 
+
+![IMAGE ALT TEXT HERE](https://www.lidl-kochen.de/images/recipe/629857/tagliatelle-mit-spinat-und-haehnchen-144482_step_5.jpg)
 ​
+
 Guten Appetit!
 
-## Ahmads Lieblingsrezept aus der Heimat
-
-
-
-## Ahmads Lieblingsrezept aus Deutschland
-
-
-
+***
 # Alis Lieblingsrezepte
-
-## Alis Lieblingsrezept aus der Heimat
+## Alis Lieblingsrezept aus der Heimat 
 
 ## MAKARONNI GERICHT
 
@@ -193,7 +158,7 @@ Guten Appetit!
 
 **Alle Zutaten in einem Standmixer vermengen.**
 ​
-> Öl in einer Pfanne erhitzen und jeweils zwei Esslöffel     Teig für einen Pancake bei mittlerer Hitze braten.​
+> Öl in einer Pfanne erhitzen und jeweils zwei Esslöffel Teig für einen Pancake bei mittlerer Hitze braten.​
 
 >  **Tipps:** Jede andere Pflanzenmilch ist möglich. Das Reismehl kann z. B. durch Haferflockenmehl ersetzt werden.
 
@@ -231,13 +196,7 @@ Guten Appetit!
  Steaks herausnehmen, fest in Backpapier wickeln, 5 Minuten ruhen lassen. Rauke verlesen, abspülen, trocknen. Mit Walnüssen, Roter Bete, restlichem Öl, Salz und Pfeffer mischen. Zu den Steaks servieren.
 
 ##  GUTEN APPETITE
-
-
-
 # Camilas Lieblingsrezepte
-
-pommes
-
 ## Camilas Lieblingsrezept aus der Heimat
 
 ## Käsebällchen (Aus Brasilien)
@@ -276,13 +235,58 @@ Nach Ende der Backzeit sind sie von außen leicht knusprig und von innen herrlic
 ```
 Guten Appetit!
 ```
-
 ## Camilas Lieblingsrezept aus Deutschland
+# Hamburger Labskaus
+#### (aus Hamburg, Deutschland)
 
+![alt text] (https://img.chefkoch-cdn.de/rezepte/458841138967721/bilder/983747/crop-600x400/hamburger-labskaus.jpg "Hamburger Labskaus")
 
+_Arbeitszeit ca. 25 Minuten_
+
+_Koch-/Backzeit ca. 25 Minuten_
+
+_Gesamtzeit ca. 50 Minuten_
+
+###ZUTATEN:
+
+```
+- 1 Dose        `Corned Beef`
+
+- 750 g          `Kartoffel(n), geschält`
+
+- 3             `Gewürzgurke(n)`
+
+- 2             `Zwiebel(n)`
+
+- 4             `Eier`
+
+- 4             `Matjesfilets, Bismarckheringe oder Rollmöpse`
+
+- etwas:	
+        Rote Bete;
+        Salz und Pfeffer;
+        Piment, gemahlen;
+        Margarine zum Braten;
+        Gurkenflüssigkeit
+```
+
+###ZUBEREITUNG:
+
+1. Die Kartoffeln als Salzkartoffeln kochen;
+
+2. In der Zwischenzeit die klein gewürfelten Zwiebeln in etwas Fett andünsten, bis sie blond sind; Das klein geschnittene Corned Beef zufügen und mit Deckel etwa 3 Minuten dünsten; Dann die gewürfelten Gewürzgurken mit etwas vom Gurkensud zufügen; Mit Salz, Pfeffer und Piment herzhaft abschmecken; Wenn gewünscht, eventuell noch etwas gewürfelte Rote Beete zugeben. Alles etwa 10 Minuten leicht köcheln lassen;
+
+3. Die fertig gegarten Kartoffeln etwas stampfen, jedoch nicht so fein wie für Püree! Den Corned Beef Mix unterrühren. Wenn die Mischung zu fest ist, noch etwas Gurkenwasser unterrühren;
+
+4. Auf Teller füllen. Mit **Spiegelei** und nach Geschmack mit **Matjes, Bismarckhering** oder **Rollmops** servieren.
+
+###VIDEO:
+
+[![YouTube Video](http://img.youtube.com/vi/_4nrbwXphsc/0.jpg)](http://www.youtube.com/watch?v=_4nrbwXphsc)
+
+#```Guten Appetite!``` 
 
 # Farihas Lieblingsrezepte
-
 ## Farihas Lieblingsrezept aus der Heimat
 
 ## Kabuli Palau
@@ -329,7 +333,7 @@ _Hier noch ein Video wie man Kabuli Palau kocht._
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/UqK_ox7FF00/0.jpg)](http://www.youtube.com/watch?v=UqK_ox7FF00)
 
-_Guten Apetit!_
+###_Guten Apetit!_
 
 Auf afghanisch: _Ishtiyahe khub!_ 
 
@@ -340,7 +344,7 @@ Auf afghanisch: _Ishtiyahe khub!_
 ![alt text](images/kohlrouladen.jpg "Kohlrouladen")
 
 ---
-
+S
 **Das Rezept**
 
 **_Zutaten für 6 Personen_**
@@ -375,28 +379,118 @@ _Hier noch ein Video wie man die Kohlroueladen macht._
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0EzttZ4vM10/0.jpg)](http://www.youtube.com/watch?v=0EzttZ4vM10)
 
-_Guten Apetit!_
+###_Guten Apetit!_
 
-
-
+***
 # Hamids Lieblingsrezepte
-
 ## Hamids Lieblingsrezept aus der Heimat
 
+# Kabab koobideh
+## Preparation and cooking
+
+![alt text](images/2.jpg "KEBAB")
+
+>Lamb or beef (precisely 20% fat, 80% meat) is minced twice for finerconsistency. Salt, black pepper, very finely grated onion and optionally one egg yolk per pound of meat is added. All ingredients are mixed, covered, and left to marinate in the refrigerator for at least one hour or overnight.
+
+>Kabab koobideh is grilled on wide, flat skewers, traditionally over hot coals, and is served with chelow (Iranian plain white rice with oil, salt and saffron), accompanied by grilled tomatoes and onions. Sumac is usually served as a tableside garnishing spice.
+
+>Chicken kabab koobideh is made using chives or green onions, parsley, salt and pepper—no turmeric and no sumac. It is served over baghali polo (dill and broad bean rice pilaf).
+
+
+## In diesem Video sehen Sie, wie man Kebab zubereitet
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/nFZMZChXL3w/0.jpg)](http://www.youtube.com/watch?v=nFZMZChXL3w)
+
 ## Hamids Lieblingsrezept aus Deutschland
+# Currywurst
 
+![alt text](images/4.jpeg "Currywurst")
 
+>ist ein Gericht aus Brat- oder anderer Brühwurst, die ganz oder geschnitten mit einer tomatenhaltigen Sauce und Currypulver oder mit einem Curry-Ketchup serviert wird. Sie wird der Deutschen Küche zugerechnet. Bei den Würsten handelt es sich meist um feine, vorgegarte Brühwürste mit oder ohne Darm. Serviert wird das seit der Nachkriegszeit bekannte Gericht vor allem in der Imbiss­gastronomie. Es ist außerdem ein beliebtes Angebot in deutschen Betriebskantinen[1][2] und auch als Fertiggericht für Privathaushalte erhältlich.
 
-# Houmans Lieblingsrezepte
+>Currywurst (in Kombination mit Pommes frites) ist im Jahr 2020 zum 28. Mal in Folge beliebtestes Kantinenessen in Deutschland,[4] wurde aber 2021 durch Spaghetti Bolognese abgelöst.[5]
+
+## In diesem Video sehen Sie, TOP 15 CURRYWURSTE IN BERLIN! DER GROßE TEST
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/jz1WqZ8lBYk/0.jpg)](http://www.youtube.com/watch?v=jz1WqZ8lBYk)
+
+***
 
 ## Houmans Lieblingsrezept aus der Heimat
 
+# Kabab Kubideh | Rezept
+
+![kubideh](images/kubideh.jpg "lecker")
+
+Kabab Kubideh - persischer Hackfleischspieß
+Zutaten (für 4 Portionen):
+
+- 1/2 kg Lammfaschiertes
+- 1/2 kg Rindfaschiertes
+- 3 Zwiebel
+- 1 TL Safran
+- 2 TL Sumach
+- 2 TL Kurkuma
+- Salz, Pfeffer
+- Kabab-Spieße (aus Metall mit flacher Klinge)
+
+###Kabab Kubideh: der Klassiker unter den persischen Grillspießen
+
+Kabab gehört zu den typischen Gerichten des Iran, hat aber mit dem bekannten türkischen Drehspieß gar nichts gemein. In der persischen Variante wird das Fleisch auf dünne flache Metallspieße gesteckt und am Holzkohlengrill zubereitet. Entscheidend für die Qualität ist die Qualität und Zartheit des Fleisches, gerade die persische Küche lebt von der Güte ihrer Zutaten. Die Feinheit der Rezeptkomposition und die Gewürzwahl ist darauf abgestimmt. Die typischen langen, abgeflachten Spieße und die Zubereitung am Holzkohlengrill geben dem persischen Kabab seinen einzigartigen, unverwechselbaren Geschmack.
+
 ## Houmans Lieblingsrezept aus Deutschland
+# Gulaschsuppe | Rezept
 
+![gulaschsuppe](images/gulaschsuppe.jpg "lecker")
 
+Gulaschsuppe nach ungarischer Art
+Zutaten (für 4 Portionen):
+
+- 600g Rindfleisch küchenfertig, aus der Schulter
+- 400g festkochende Kartoffeln
+- 300g Zwiebeln
+- 2    Knoblauchzehen
+- 2    rote Paprikaschoten
+- 1    rote Chilischote
+- 2 EL Butter
+- 2 EL edelsüßes Paprikapulver
+- 3 EL Tomatenmark
+- 1⅓l  Rindfleischbrühe
+- 1    Lorbeerblatt
+- 1 TL Kümmelsamen
+- 3    Pfefferkörner 
+       Salz 
+       Pfeffer aus der Mühle
+- 2    Stiele Majoran
+
+### Zubereitungsschritte
+
+1-
+    Fleisch waschen, trocken tupfen und in mundgerechte Stücke schneiden. Kartoffeln schälen, waschen und ebenfalls in mundgerechte Stücke schneiden.
+
+2-
+    Zwiebeln und Knoblauch schälen, Zwiebel in feine Streifen schneiden und Knoblauch fein hacken.
+
+3-
+    Paprikaschote halbieren, entkernen, waschen und in Würfel schneiden. Chilischote längs halbieren, entkernen, waschen und hacken.
+
+4-
+    In einem Topf Butter erhitzen und Fleisch portionsweise rundherum bei starker Hitze anbraten. Mit Paprikapulver würzen, herausnehmen und beiseitestellen.
+
+5-
+    Zwiebeln, Knoblauch und Chili im Bratenfett anbraten, Tomatenmark einrühren, mit Fleischbrühe ablöschen. Fleisch wieder einlegen und bei mittlerer Hitze etwa 1 1/2 Stunden schmoren lassen.
+
+6-
+    Zwischenzeitlich Lorbeerblatt, Kümmelsamen und Pfefferkörner in ein Teefilter geben. Nach etwa 1 Stunde zusammen mit Paprika und Kartoffeln zugeben und mitgaren.
+
+7-
+    Die ungarische Gulaschsuppe mit Salz und Pfeffer abschmecken, Gewürze entfernen und die Suppe in vorgewärmten Schälchen anrichten. Majoran waschen, trocken schütteln, Blättchen abzupfen und Suppe damit bestreut servieren.
+
+###  Bon Appétit
+
+***
 
 # Laszlos Lieblingsrezepte
-
 ## Lászlós Lieblingsrezept aus der Heimat
 
 ## Ungarisches Bohnengulasch
@@ -445,7 +539,6 @@ Durch das Rühren und die austretende Stärke der Bohnen dickt das Bohnengulasch
 Abschließend nach Geschmack mit Salz & Pfeffer aus der Mühle kräftig würzen.
 
 ## Lászlós Lieblingsrezept aus Deutschland
-
 ## Knuspriges Käsebrot
 
 ![alt text](https://images.lecker.de/express-erbsensuppe-mit-knusprigem-kaesebrot-lecker-04-2018-F5924103,id=c7e83336,b=lecker,w=610,cg=c.jpg "Bild bezeichnung was Ihr wollt")
@@ -468,19 +561,59 @@ Brotscheiben längs halbieren, auf das Blech legen. Käse reiben, auf das Brot s
 
 Gefrorene Erbsen in der Suppe ca. 5 Minuten kochen. Suppe grob pürieren. Mit Salz und Pfeffer abschmecken. Mit Brot anrichten.
 
-# Mahmuts Lieblingsrezepte
+***
 
-## Mahmuts Lieblingsrezept aus der Heimat
+# Mahmuts Lieblingsrezept
+# Baked Beans mit Gemüse
+### Zutaten für
+ 
+ ***
 
-## Mahmuts Lieblingsrezept aus Deutschland
+1. _500 g_	Bohnen, weiße, getrocknete
+
+2.  _3 Zehe/n_	Knoblauch
+
+3.  _1.000 g_	Tomaten, passierte
+
+4.  _1 EL_	Zuckerrübensirup
+
+5. _2 EL_	Essig
+
+7.  _400 g_	Gemüse (Lauch, Karotte, Blumenkohl, Mais)
+
+### Nährwerte pro Portion
+
+***
+
+- kcal 186
+
+- Eiweiß 9,76 g
+
+- Fett 3,27 g
+
+- Kohlenhydr. 27,44 g
 
 
+![Beans mit Gemüse] (https://img.chefkoch-cdn.de/rezepte/2741711426255186/bilder/873173/crop-600x400/baked-beans-mit-gemuese.jpg "Beans")
 
+
+> Die weißen Bohnen am Vortag einweichen. Am nächsten Tag die Bohnen in ca. 60 Min. gar kochen.
+In einem zweiten Topf Öl erhitzen und darin die Zwiebeln und den Knoblauch kurz anschwitzen. Die passierten Tomaten, Gewürze, Sirup, Essig und Senf dazugeben. Das Gemüse nach Wahl z. B. Mais, Erbsen, Karotten, Kohl usw. dazugeben und 30 Minuten kochen lassen. Die gekochten Bohnen abgießen und zur Soße geben, kurz nochmal aufkochen lassen.
+Dazu passen Brot, Nudeln, Reis oder Kartoffelbrei.
+Funktioniert auch mit Wachtelbohnen, Schwarzaugenbohnen, Kidneybohnen. Wenn es schnell gehen soll, kann man auch einfach statt des Gemüses 1 Paket Buttergemüse verwenden, ist dann aber nicht mehr vegan.
+
+---
+
+Sie können einfach durch Video sehen
+
+[![Leckeres Beans](http://img.youtube.com/vi/VAaw7d6FQ80/0.jpg )](https://www.youtube.com/watch?v=VAaw7d6FQ80)
+
+***
 # Mariannas Lieblingsrezepte
-
 ## Mariannas Lieblingsrezept aus der Heimat
-
 ## Piroggen mit Fleischfüllung
+
+![alt text](images/piroggen.jpeg "Piroggen")
 
 ## Zutaten
 
@@ -493,7 +626,7 @@ Gefrorene Erbsen in der Suppe ca. 5 Minuten kochen. Suppe grob pürieren. Mit Sa
 - 550 g Mehl
 - 10 g Hefe (trocken)
 - 500 ml Pflanzenöl
-- 
+
 ## Zubereitung
 
 1. In warme Milch hinzufügen: Salz, Zucker, Trockenhefe. Umrühren. 100 g Mehl dazugeben, umrühren und 20 min. lang bedeckt mit einem sauberen Handtuch an einem warmen Ort stehen lassen.
@@ -503,16 +636,75 @@ Gefrorene Erbsen in der Suppe ca. 5 Minuten kochen. Suppe grob pürieren. Mit Sa
 5. Öl in die Pfanne geben. Piroggen ins Öl legen. Von jeder Seite 2 Min. lang braten. Piroggen von allen Seiten durchbraten. Servieren.
 
 ## Mariannas Lieblingsrezept aus Deutschland
+## Heringssalat
 
+![alt text](images/heringssalat.jpeg "Heringssalat")
 
+## Zutaten
+
+- 250 g Matjesheringe
+- 1 große rote Zwiebel
+- 2 Rote Beten, gekocht
+- 2 Essiggurken
+- 50 ml Buttermilch
+- 3 Stängel Dill
+- 1 Beet Kresse
+- Salz
+- Pfeffer
+
+## Zubereitung
+
+1. Rote Bete und Essiggurken in Würfel schneiden. Zwiebel schälen und in feine Ringe schneiden.
+
+2. Alles vermischen und Buttermilch angießen. Salzen und pfeffern. Den Dill hacken und 1/2 der Kresse schneiden.
+
+3. Den Hering in ca. 2 cm dicke Stücke schneiden und dazugeben, noch einmal alles gut vermischen und mit der restlichen Kresse garnieren.
+
+### Guten Appetit!
+
+***
 
 # Mustaphas Lieblingsrezepte
-
 ## Mustaphas Lieblingsrezept aus der Heimat
+
+![alt text](images/Tabole.jpg "Testbild")
+
+# Taboule – Petersiliensalat
+## Zubereitung
+
+ZUTATEN:
+
+> 1 großes Bund Petersilie
+
+> 3 Rispentomaten - oder entsprechend mehr Minitomaten
+
+> 1 Zwiebel
+
+> 1 Zitrone
+
+> 2 Zweige Minze - nur die Blätter
+
+> 40 g feiner Bulgur
+
+> 1 Prise Zimt
+
+> Olivenöl - nach Geschmack, nicht damit sparen!
+
+> Salz, Pfeffer
+
+ Zum Servieren: Romana-Salat
+
+1. Die Petersilie und Minze fein hacken.– Wie fein genau Du die Petersilie hackst, ist Dir überlassen. Ich persönlich würde sie nicht pürieren, da dem Salat ansonsten der Biss fehlt.
+2. Zwiebel sehr fein hacken.– ein extra Tipp zwischendurch: gib direkt beim Hacken der Zwiebel Salz, Pfeffer und einen Hauch Zimt hinzu und hacke die Gewürze mit durch. Es entsteht eine Zwiebel-Gewürzmischung.
+3. Die Tomaten fein würfeln und mit den Zwiebeln zur Minze und Petersilie geben.
+4. Um den Bulgur zu garen, übergieße ihn mit warmen Wasser und lass ihn kurz ziehen. Achte darauf, dass er nicht zu weich wird. Der Bulgur darf ruhig etwas „Al Dente“ sein. Gieße das restliche Wasser ab und gib den Bulgur anschließend zur Petersilie.
+5. Zitrone auspressen.
+6. Zum Schluss vorsichtig Zitronensaft und Olivenöl hinzugeben und alle Zutaten miteinander vermengen.– einige Zitronen geben mehr Saft als andere. Deshalb würde ich erstmal nur die Hälfte vom Zitronensaft dazugeben und später eventuell mehr. Und: spare nicht am Olivenöl.
+7. Probiere anschließend, ob Dir das Verhältnis zwischen Säure und Salz schmeckt. Würze evtl. noch einmal mit Salz, Pfeffer, Zimt und Zitrone nach.
 
 ## Mustaphas Lieblingsrezept aus Deutschland
 
-Fruchtiger Rotkohl mit Portwein
+### Fruchtiger Rotkohl mit Portwein
 
 ---
 
@@ -541,20 +733,14 @@ Fruchtiger Rotkohl mit Portwein
 - Orangensaft, Rotkohl, Preiselbeeren und den Apfel zufügen und alles zugedeckt bei mittlerer Hitze weich dünsten, das dauert 40 - 60 Minuten, hängt vom Rotkohl ab. Dabei öfter umrühren und immer wieder probieren ob der Rotkohl schon gar ist, zum Schluss noch einmal abschmecken.
 - Den Rotkohl vor dem Servieren noch neben dem Herd ein paar Minuten nachziehen lassen. 
 
-
-
+***
 # Obadahs Lieblingsrezepte
-
-## Obadahs Lieblingsrezept aus der Heimat
-
+## Obadahs Lieblingsrezept aus der 
 ## Obadahs Lieblingsrezept aus Deutschland
 
-
-
+***
 # Przemyslaws Lieblingsrezepte
-
 ## Przemyslaws Lieblingsrezept aus der Heimat
-
 ## Rezept veganer Bigos
 
 ![veganer Bigos](https://cdn.gutekueche.de/upload/rezept/2223/bigosch.jpg "veganer Bigos")
@@ -588,13 +774,11 @@ Fruchtiger Rotkohl mit Portwein
 - Alle Zutaten in einen Topf geben und so lange kochen bis das Sauerkraut weich ist
 - zwischendurch das Wasser vom Sauerkraut nach belieben dazugeben
 
-...
+***
 
 **Bitte heiß servieren**
 
 [siehe auch ein Rezept mit Fleisch](https://www.gutekueche.de/bigosch-rezept-2223)
-
-<a href="https://www.gutekueche.de/bigosch-rezept-2223" target="_blank">siehe auch ein Rezept mit Fleich</a>
 
 ## Przemyslaws Lieblingsrezept aus Deutschland
 
@@ -624,12 +808,8 @@ Fruchtiger Rotkohl mit Portwein
 
 **_Lecker_**
 
-
-
 # Saeeds Lieblingsrezepte
-
 ## Saeeds Lieblingsrezept aus der Heimat
-
 ## Ghorme Sabzi
 
 **Zutaten**
@@ -678,7 +858,6 @@ Ghormeh Sabzi mit normalen Reis oder Safranreis servieren. Das persische Gericht
 ![Ghormeh sabzi](images/ghormeh-sabzi.jpg "testbild")
 
 ## Saeeds Lieblingsrezept aus Deutschland
-
 ## Kürbissuppe
 
 **Zutaten**
@@ -706,21 +885,16 @@ ganz einfach
 3. Ca. 3/4 der Sahne zufügen und alles fein pürieren. Noch einmal abschmecken. Kürbissuppe mit Rest Sahne und nach Belieben mit Pfeffer, gehackter Petersilie und Chiliflocken anrichten und servieren.
 4. Tipp: Kürbissuppe einfrieren! Dafür die abgekühlte Suppe in Gefrierdosen oder Gefrierbeutel geben, fest verschließen und ins Tiefkühlfach legen. Zum Auftauen einige Stunden vor dem Aufwärmen in den Kühlschrank stellen.
 
-![Kürbis suppe](images/Kürbissuppe.png "testbild")
-
+![Kürbis suppe](images/Kuerbissuppe.jpg "testbild")
 
 # Sidars Lieblingsrezepte
-
 ## Sidars Lieblingsrezept aus der Heimat
-
 ## Sidars Lieblingsrezept aus Deutschland
 
-
+***
 
 # Soonams Lieblingsrezepte
-
 ## Soonams Lieblingsrezept aus der Heimat
-
 ## Bibimbap
 
 **Bibimbap ist ein beliebtes koreanisches Gericht, das mit Reis und verschiedenen Gemüsesorten, etwas Rindfleisch oder Tofu, einem rohen oder gebratenen Ei und Gochujang zubereitet wird. Als klassisches Resteessen gibt es kaum Einschränkungen bei der Wahl der Zutaten und unzählige Variationen.**
@@ -754,7 +928,6 @@ Klick unten, um das Video zu starten
 > **"Bibimbab geht immer!"**
 
 ## Soonams Lieblingsrezept aus Deutschland
-
 ## Currywurst
 
 **Currywurst ist sehr lecker**
@@ -767,9 +940,8 @@ Die kleingeschnittenen Zwiebeln in Olivenöl glasig dünsten. Etwas Tomatenmark 
 
 > "Die Zeiten ändern sich, nur die Currywurst nicht"
 
+***
 
 # Tanjus Lieblingsrezepte
-
 ## Tanjus Lieblingsrezept aus der Heimat
-
 ## Tanjus Lieblingsrezept aus Deutschland
