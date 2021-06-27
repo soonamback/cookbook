@@ -13,10 +13,10 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 8. [Mahmuts Lieblingsrezepte](#mahmuts-lieblingsrezepte)
 9. [Mariannas Lieblingsrezepte](#mariannas-lieblingsrezepte)
 10. [Mustaphas Lieblingsrezepte](#mustaphas-lieblingsrezepte)
-11. [Obadahs Lieblingsrezepte]
+11. [Obadahs Lieblingsrezepte](#obadahs-lieblingsrezepte)
 12. [Przemyslaws Lieblingsrezepte](#przemyslaws-lieblingsrezepte)
 13. [Saeeds Lieblingsrezepte](#saeeds-lieblingsrezepte)
-14. [Sidars Lieblingsrezepte]
+14. [Sidars Lieblingsrezepte](#sidars-lieblingsrezepte)
 15. [Soonams Lieblingsrezepte](#soonams-lieblingsrezepte)
 16. [Tanjus Lieblingsrezepte]
 
@@ -38,8 +38,7 @@ Pfeffer, schwarz
 Balsamicoessig, hell                                                                    4 EL 
 Frischkäse, natur                                                                       100 g 
  ```
-
-<iframe width="810" height="456" src="https://www.youtube.com/embed/L4GhsPvgLBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/L4GhsPvgLBs/0.jpg)](http://www.youtube.com/watch?v=L4GhsPvgLBs)
 
 1. Pilze ggf. mit Küchenkrepp säubern und sechsteln. Basilikum waschen, trocken schütteln, Blätter von den Stielen zupfen und fein schneiden. Pute waschen, trocken tupfen und grob würfeln.  
 
@@ -75,8 +74,7 @@ Olivenöl                                                                       
 Blattspinat                                                                            300 g 
 Pfeffer, schwarz
 ```
-
-<iframe width="810" height="456" src="https://www.youtube.com/embed/pbPPdheBd1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/pbPPdheBd1c&t=17s/0.jpg)](http://www.youtube.com/watch?v=pbPPdheBd1c&t=17s)
 
 1. In einem Topf ca. 4 l Salzwasser zugedeckt aufkochen. Hähnchen waschen, trocken tupfen, ggf. von Sehnen befreien und in ca. 3-4 cm große Stücke Fleisch schneiden. Zwiebel halbieren, schälen und in dünne Streifen schneiden.  
 
@@ -559,7 +557,6 @@ Gefrorene Erbsen in der Suppe ca. 5 Minuten kochen. Suppe grob pürieren. Mit Sa
 
 - Kohlenhydr. 27,44 g
 
-
 ![Beans mit Gemüse](https://img.chefkoch-cdn.de/rezepte/2741711426255186/bilder/873173/crop-600x400/baked-beans-mit-gemuese.jpg "Beans")
 
 > Die weißen Bohnen am Vortag einweichen. Am nächsten Tag die Bohnen in ca. 60 Min. gar kochen.
@@ -571,8 +568,7 @@ Funktioniert auch mit Wachtelbohnen, Schwarzaugenbohnen, Kidneybohnen. Wenn es s
 
 Sie können einfach durch Video sehen
 
-[![Leckeres Beans](http://img.youtube.com/vi/VAaw7d6FQ80/0.jpg )](https://www.youtube.com/watch?v=VAaw7d6FQ80)
-
+[![Leckeres Beans](http://img.youtube.com/vi/VAaw7d6FQ80/0.jpg)](https://www.youtube.com/watch?v=VAaw7d6FQ80)
 
 ***
 
