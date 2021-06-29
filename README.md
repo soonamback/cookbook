@@ -13,10 +13,10 @@ Das offizielle CrazyCoders Kochbuch ist eine Ansammlung von den Lieblingsrezepte
 8. [Mahmuts Lieblingsrezepte](#mahmuts-lieblingsrezepte)
 9. [Mariannas Lieblingsrezepte](#mariannas-lieblingsrezepte)
 10. [Mustaphas Lieblingsrezepte](#mustaphas-lieblingsrezepte)
-11. [Obadahs Lieblingsrezepte]
+11. [Obadahs Lieblingsrezepte](#obadahs-lieblingsrezepte)
 12. [Przemyslaws Lieblingsrezepte](#przemyslaws-lieblingsrezepte)
 13. [Saeeds Lieblingsrezepte](#saeeds-lieblingsrezepte)
-14. [Sidars Lieblingsrezepte]
+14. [Sidars Lieblingsrezepte](#sidars-lieblingsrezepte)
 15. [Soonams Lieblingsrezepte](#soonams-lieblingsrezepte)
 16. [Tanjus Lieblingsrezepte]
 
@@ -38,8 +38,7 @@ Pfeffer, schwarz
 Balsamicoessig, hell                                                                    4 EL 
 Frischkäse, natur                                                                       100 g 
  ```
-
-<iframe width="810" height="456" src="https://www.youtube.com/embed/L4GhsPvgLBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/L4GhsPvgLBs/0.jpg)](http://www.youtube.com/watch?v=L4GhsPvgLBs)
 
 1. Pilze ggf. mit Küchenkrepp säubern und sechsteln. Basilikum waschen, trocken schütteln, Blätter von den Stielen zupfen und fein schneiden. Pute waschen, trocken tupfen und grob würfeln.  
 
@@ -75,8 +74,7 @@ Olivenöl                                                                       
 Blattspinat                                                                            300 g 
 Pfeffer, schwarz
 ```
-
-<iframe width="810" height="456" src="https://www.youtube.com/embed/pbPPdheBd1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/pbPPdheBd1c&t=17s/0.jpg)](http://www.youtube.com/watch?v=pbPPdheBd1c&t=17s)
 
 1. In einem Topf ca. 4 l Salzwasser zugedeckt aufkochen. Hähnchen waschen, trocken tupfen, ggf. von Sehnen befreien und in ca. 3-4 cm große Stücke Fleisch schneiden. Zwiebel halbieren, schälen und in dünne Streifen schneiden.  
 
@@ -104,6 +102,7 @@ Guten Appetit!
 ***
 
 # Alis Lieblingsrezepte
+
 ## Alis Lieblingsrezept aus der Heimat 
 
 ## MAKARONNI GERICHT
@@ -162,11 +161,12 @@ Guten Appetit!
  Rote Bete abtropfen lassen und in Spalten schneiden. Knoblauch andrücken und schälen. 1-2 EL Öl in einer Pfanne erhitzen, Rote Bete und Knoblauch darin 3 Minuten braten. Essig und 2 Prisen Zucker zufügen, zugedeckt etwa 2 Minuten karamellisieren lassen.
  Steaks herausnehmen, fest in Backpapier wickeln, 5 Minuten ruhen lassen. Rauke verlesen, abspülen, trocknen. Mit Walnüssen, Roter Bete, restlichem Öl, Salz und Pfeffer mischen. Zu den Steaks servieren.
 
-##  GUTEN APPETITE
+###  GUTEN APPETITE
 
 ***
 
 # Camilas Lieblingsrezepte
+
 ## Camilas Lieblingsrezept aus der Heimat
 
 ## Käsebällchen (Aus Brasilien)
@@ -206,10 +206,12 @@ Nach Ende der Backzeit sind sie von außen leicht knusprig und von innen herrlic
 Guten Appetit!
 ```
 ## Camilas Lieblingsrezept aus Deutschland
+
 # Hamburger Labskaus
+
 #### (aus Hamburg, Deutschland)
 
-![alt text] (https://img.chefkoch-cdn.de/rezepte/458841138967721/bilder/983747/crop-600x400/hamburger-labskaus.jpg "Hamburger Labskaus")
+![alt text](https://img.chefkoch-cdn.de/rezepte/458841138967721/bilder/983747/crop-600x400/hamburger-labskaus.jpg "Hamburger Labskaus")
 
 _Arbeitszeit ca. 25 Minuten_
 
@@ -242,7 +244,7 @@ _Gesamtzeit ca. 50 Minuten_
 
 4. Auf Teller füllen. Mit **Spiegelei** und nach Geschmack mit **Matjes, Bismarckhering** oder **Rollmops** servieren.
 
-###VIDEO:
+### VIDEO:
 
 [![YouTube Video](http://img.youtube.com/vi/_4nrbwXphsc/0.jpg)](http://www.youtube.com/watch?v=_4nrbwXphsc)
 
@@ -251,6 +253,7 @@ _Gesamtzeit ca. 50 Minuten_
 ***
 
 # Farihas Lieblingsrezepte
+
 ## Farihas Lieblingsrezept aus der Heimat
 
 ## Kabuli Palau
@@ -348,6 +351,7 @@ _Hier noch ein Video wie man die Kohlroueladen macht._
 ***
 
 # Hamids Lieblingsrezepte
+
 ## Hamids Lieblingsrezept aus der Heimat
 
 # Kabab koobideh
@@ -408,6 +412,7 @@ Kabab gehört zu den typischen Gerichten des Iran, hat aber mit dem bekannten t�
 # Houmans Lieblingsrezepte
 
 ## Houmans Lieblingsrezept aus Deutschland
+
 # Gulaschsuppe | Rezept
 
 ![gulaschsuppe](images/gulaschsuppe.jpg "lecker")
@@ -496,6 +501,7 @@ Durch das Rühren und die austretende Stärke der Bohnen dickt das Bohnengulasch
 Abschließend nach Geschmack mit Salz & Pfeffer aus der Mühle kräftig würzen.
 
 ## Lászlós Lieblingsrezept aus Deutschland
+
 ## Knuspriges Käsebrot
 
 ![alt text](https://images.lecker.de/express-erbsensuppe-mit-knusprigem-kaesebrot-lecker-04-2018-F5924103,id=c7e83336,b=lecker,w=610,cg=c.jpg "Bild bezeichnung was Ihr wollt")
@@ -523,7 +529,6 @@ Gefrorene Erbsen in der Suppe ca. 5 Minuten kochen. Suppe grob pürieren. Mit Sa
 # Mahmuts Lieblingsrezept
 
 # Baked Beans mit Gemüse
-
 ### Zutaten für
  
 ***
@@ -552,7 +557,6 @@ Gefrorene Erbsen in der Suppe ca. 5 Minuten kochen. Suppe grob pürieren. Mit Sa
 
 - Kohlenhydr. 27,44 g
 
-
 ![Beans mit Gemüse](https://img.chefkoch-cdn.de/rezepte/2741711426255186/bilder/873173/crop-600x400/baked-beans-mit-gemuese.jpg "Beans")
 
 > Die weißen Bohnen am Vortag einweichen. Am nächsten Tag die Bohnen in ca. 60 Min. gar kochen.
@@ -564,8 +568,7 @@ Funktioniert auch mit Wachtelbohnen, Schwarzaugenbohnen, Kidneybohnen. Wenn es s
 
 Sie können einfach durch Video sehen
 
-[![Leckeres Beans](http://img.youtube.com/vi/VAaw7d6FQ80/0.jpg )](https://www.youtube.com/watch?v=VAaw7d6FQ80)
-
+[![Leckeres Beans](http://img.youtube.com/vi/VAaw7d6FQ80/0.jpg)](https://www.youtube.com/watch?v=VAaw7d6FQ80)
 
 ***
 
@@ -599,9 +602,43 @@ Sie können einfach durch Video sehen
 ***
 
 # Mustaphas Lieblingsrezepte
+## Mustaphas Lieblingsrezept aus der Heimat
+### Taboule – Petersiliensalat
+![alt text](images/Tabole.jpg "Testbild")
+
+## Zubereitung
+
+ZUTATEN:
+
+> 1 großes Bund Petersilie
+
+> 3 Rispentomaten - oder entsprechend mehr Minitomaten
+
+> 1 Zwiebel
+
+> 1 Zitrone
+
+> 2 Zweige Minze - nur die Blätter
+
+> 40 g feiner Bulgur
+
+> 1 Prise Zimt
+
+> Olivenöl - nach Geschmack, nicht damit sparen!
+
+> Salz, Pfeffer
+
+ Zum Servieren: Romana-Salat
+
+1. Die Petersilie und Minze fein hacken.– Wie fein genau Du die Petersilie hackst, ist Dir überlassen. Ich persönlich würde sie nicht pürieren, da dem Salat ansonsten der Biss fehlt.
+2. Zwiebel sehr fein hacken.– ein extra Tipp zwischendurch: gib direkt beim Hacken der Zwiebel Salz, Pfeffer und einen Hauch Zimt hinzu und hacke die Gewürze mit durch. Es entsteht eine Zwiebel-Gewürzmischung.
+3. Die Tomaten fein würfeln und mit den Zwiebeln zur Minze und Petersilie geben.
+4. Um den Bulgur zu garen, übergieße ihn mit warmen Wasser und lass ihn kurz ziehen. Achte darauf, dass er nicht zu weich wird. Der Bulgur darf ruhig etwas „Al Dente“ sein. Gieße das restliche Wasser ab und gib den Bulgur anschließend zur Petersilie.
+5. Zitrone auspressen.
+6. Zum Schluss vorsichtig Zitronensaft und Olivenöl hinzugeben und alle Zutaten miteinander vermengen.– einige Zitronen geben mehr Saft als andere. Deshalb würde ich erstmal nur die Hälfte vom Zitronensaft dazugeben und später eventuell mehr. Und: spare nicht am Olivenöl.
+7. Probiere anschließend, ob Dir das Verhältnis zwischen Säure und Salz schmeckt. Würze evtl. noch einmal mit Salz, Pfeffer, Zimt und Zitrone nach.
 
 ## Mustaphas Lieblingsrezept aus Deutschland
-
 ### Fruchtiger Rotkohl mit Portwein
 
 ---
@@ -634,12 +671,38 @@ Sie können einfach durch Video sehen
 ***
 
 # Obadahs Lieblingsrezepte
-## Obadahs Lieblingsrezept aus der 
+
+## Obadahs Lieblingsrezept aus der Heimat
+# KUSCHARI
+
+![KUSCHARI](image0.jpeg)
+
+### Kuschari ist ein traditionelles, einfaches ägyptisches Gericht. Oft wird es in Garküchen angeboten, die nichts anderes servieren, und stellt für Einheimische wie Reisende die billigste Möglichkeit eines sättigenden Essens dar. 
+
+## ZUTATEN
+
+* 1,5 Tassen Tomatensauce. 
+* 1/2 Tasse braune Linsen.
+* 1,5 Tassen braunen Reis. 
+* 100 g gekochte Nudeln aus Weizen. 
+* 2 Esslöffel Kokosöl.
+* Eine Knoblauchzehe. 
+* 1/2 Tasse gehackte Zwiebeln in feinen Scheiben. 
+* 1 Esslöffel gemahlenes Kreuzkümmelpulver. 
+* 2 Esslöffel Apfelessig. 
+
+## ZUBEREITUNG
+
+Bereiten Sie ein wenig Ölspray in einer Antihaftschüssel vor und legen Sie es bei mittlerer Hitze ab. Knoblauch, Zwiebeln dazugeben und gut rühren, bis er gebräunt ist, dann die Menge halbieren und beiseite stellen. Fügen Sie den Reis auf die Hälfte der Menge an Zwiebeln, dann fügen Sie eine große Tasse und eine halbe Tasse Wasser. Lassen Sie den Reis auf dem Feuer kochen, dann aufhellen, decken Sie den Topf, und lassen Sie für 10 Minuten, bis gekocht. Nudeln und gekochte Linsen in den Reis geben, dann den Rest des Wassers geben. Die Zutaten mit schwarzem Pfeffer, Salz, Kreuzkümmel und Paprika abschmecken, gut rühren und dann die Mischung 15 Minuten in Brand stellen lassen. Um die Sauce vorzubereiten: Die Tomatensauce bei niedriger Hitze in einen Topf geben und Petersilie dazugeben. Die Zutaten mit Chili und Paprika abschmecken, auf dem Feuer kochen lassen, dann die Hitze reduzieren und bis dick lassen. Gießen Sie die Reismischung in eine Servierschüssel, gießen Sie die Sauce darüber, dann garnieren Sie das Gesicht mit Zwiebeln. Von meinem iPhone gesendet
+
+`Guten Appetit`
+***
+
 ## Obadahs Lieblingsrezept aus Deutschland
 
 ***
-
 # Przemyslaws Lieblingsrezepte
+
 ## Przemyslaws Lieblingsrezept aus der Heimat
 ## Rezept veganer Bigos
 
@@ -711,6 +774,7 @@ Sie können einfach durch Video sehen
 ***
 
 # Saeeds Lieblingsrezepte
+
 ## Saeeds Lieblingsrezept aus der Heimat
 ## Ghorme Sabzi
 
@@ -769,7 +833,7 @@ Für 4 Portionen
 - 1   Hokkaido-Kürbis (ca. 800 g)
 - 1   Zwiebel
 - 1   Knoblauchzehe
-- 2 EL   Butter
+- 2 EL  Butter
 - 1 l   Gemüsebrühe
 - Salz
 - Pfeffer
@@ -792,12 +856,60 @@ ganz einfach
 ***
 
 # Sidars Lieblingsrezepte
-## Sidars Lieblingsrezept aus der Heimat
-## Sidars Lieblingsrezept aus Deutschland
 
+## Sidars Lieblingsrezept aus der Heimat
+# PELIK
+![alt text](images/pelik.jpg"Pelik")
+
+--- 
+
+### Zutaten:
+
+***
+- _Traubenblatt_
+- _Reis_
+- _Hackfleisch_
+- _Tomaten und Paprika Mark_
+- _Sumach_
+- _Öl_
+- _Salz, Pfferfer_
+***
+### Zubereitungstipps:
+
+Eingelegte Weinblätter in heißes Wasser legen damit das Salz rauskommt. Danach abspülen und in ein Sieb zum abtropfen legen.
+Die Füllung wie folgt vorbereiten: Hackfleisch, Reis, geriebene Zwiebel, kleingeschnittene Frühlingszwiebel und gehackte Kräuter in einer Schüssel mischen, Salz, Pfeffer und je die Hälfte vom Olivenöl und dem Zitronensaft zufügen und gut vermischen.
+Dann nimmt man je ein Weinblatt, legt es mit der glatten Seite nach unten auf die Arbeitsfläche, nimmt einen Teelöffel Füllung und gibt diese auf die breite Seite des Blattes. Erst die breite Seite, dann die Seiten über die Füllung legen und dann zusammenrollen. So weiterverfahren, bis Blätter und Füllung aufgebraucht sind. Den Boden eines Kochtopfes mit ein paar Weinblättern auslegen, die gefüllten Weinblätter in Runden einfüllen, das restliche Öl/Zitrone übergießen und einen passenden Teller zum Beschweren auflegen.
+Die Brühe bis kurz über den Tellerrand einfüllen, Deckel drauf und bei kleiner Hitze ca. 20-30 Min. köcheln lassen. Es darf nicht brodeln. Danach vom Feuer nehmen, Teller entfernen und ein sauberes Geschirrtuch auf den Topf legen, Deckel drauf und ca. 15 Min. ruhen lassen. Guten Appetit! Schmecken warm und kalt!
+***
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/h-tY0u1h4Pw/0.jpg)](https://www.youtube.com/watch?v=h-tY0u1h4Pw)  
+---
+
+## Sidars Lieblingsrezept aus Deutschland
+# Kartoffelsalat
+![alt text](images/salad.jpg"salad")
+
+### Zutaten:
+
+- 1 kg Kartoffeln (vorwiegend, festkochend)
+- 1 Zwiebel
+- 6 El Öl (z.B. Rapskernöl)
+- 250 ml Gemüsebrühe
+- 50 ml Weißweinessig
+- Salz
+- Pffer
+
+
+### Zubereitungstipps:
+
+Kartoffeln mit kaltem Wasser bedeckt aufkochen und bei mittlerer Hitze zugedeckt 25-30 Min. weich kochen.
+Zwiebel fein würfeln und in einem Topf mit 2 El Öl glasig dünsten. Brühe zugießen und erhitzen. Vom Herd nehmen und mit Essig, Salz, 1 Prise Zucker, Pfeffer und Senf kräftig abschmecken.
+Kartoffeln abgießen, kurz ausdampfen lassen. Kartoffeln pellen und in Scheiben schneiden. ineine große Schüssel geben und mit der noch warmen Brühe übergießen. 30 Min. durchziehen lassen.
+Den Kartoffelsalat evtl. nachwürzen und die restlichen 4 El Öl untermischen.
+ Petersilienblättchen von den Stielen zupfen, fein hacken und unter den Kartoffelsalat mischen.
 ***
 
 # Soonams Lieblingsrezepte
+
 ## Soonams Lieblingsrezept aus der Heimat
 ## Bibimbap
 
