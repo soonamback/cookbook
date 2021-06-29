@@ -161,7 +161,7 @@ Guten Appetit!
  Rote Bete abtropfen lassen und in Spalten schneiden. Knoblauch andrücken und schälen. 1-2 EL Öl in einer Pfanne erhitzen, Rote Bete und Knoblauch darin 3 Minuten braten. Essig und 2 Prisen Zucker zufügen, zugedeckt etwa 2 Minuten karamellisieren lassen.
  Steaks herausnehmen, fest in Backpapier wickeln, 5 Minuten ruhen lassen. Rauke verlesen, abspülen, trocknen. Mit Walnüssen, Roter Bete, restlichem Öl, Salz und Pfeffer mischen. Zu den Steaks servieren.
 
-##  GUTEN APPETITE
+###  GUTEN APPETITE
 
 ***
 
@@ -211,7 +211,7 @@ Guten Appetit!
 
 #### (aus Hamburg, Deutschland)
 
-![alt text] (https://img.chefkoch-cdn.de/rezepte/458841138967721/bilder/983747/crop-600x400/hamburger-labskaus.jpg "Hamburger Labskaus")
+![alt text](https://img.chefkoch-cdn.de/rezepte/458841138967721/bilder/983747/crop-600x400/hamburger-labskaus.jpg "Hamburger Labskaus")
 
 _Arbeitszeit ca. 25 Minuten_
 
@@ -244,7 +244,7 @@ _Gesamtzeit ca. 50 Minuten_
 
 4. Auf Teller füllen. Mit **Spiegelei** und nach Geschmack mit **Matjes, Bismarckhering** oder **Rollmops** servieren.
 
-###VIDEO:
+### VIDEO:
 
 [![YouTube Video](http://img.youtube.com/vi/_4nrbwXphsc/0.jpg)](http://www.youtube.com/watch?v=_4nrbwXphsc)
 
@@ -602,9 +602,43 @@ Sie können einfach durch Video sehen
 ***
 
 # Mustaphas Lieblingsrezepte
+## Mustaphas Lieblingsrezept aus der Heimat
+### Taboule – Petersiliensalat
+![alt text](images/Tabole.jpg "Testbild")
+
+## Zubereitung
+
+ZUTATEN:
+
+> 1 großes Bund Petersilie
+
+> 3 Rispentomaten - oder entsprechend mehr Minitomaten
+
+> 1 Zwiebel
+
+> 1 Zitrone
+
+> 2 Zweige Minze - nur die Blätter
+
+> 40 g feiner Bulgur
+
+> 1 Prise Zimt
+
+> Olivenöl - nach Geschmack, nicht damit sparen!
+
+> Salz, Pfeffer
+
+ Zum Servieren: Romana-Salat
+
+1. Die Petersilie und Minze fein hacken.– Wie fein genau Du die Petersilie hackst, ist Dir überlassen. Ich persönlich würde sie nicht pürieren, da dem Salat ansonsten der Biss fehlt.
+2. Zwiebel sehr fein hacken.– ein extra Tipp zwischendurch: gib direkt beim Hacken der Zwiebel Salz, Pfeffer und einen Hauch Zimt hinzu und hacke die Gewürze mit durch. Es entsteht eine Zwiebel-Gewürzmischung.
+3. Die Tomaten fein würfeln und mit den Zwiebeln zur Minze und Petersilie geben.
+4. Um den Bulgur zu garen, übergieße ihn mit warmen Wasser und lass ihn kurz ziehen. Achte darauf, dass er nicht zu weich wird. Der Bulgur darf ruhig etwas „Al Dente“ sein. Gieße das restliche Wasser ab und gib den Bulgur anschließend zur Petersilie.
+5. Zitrone auspressen.
+6. Zum Schluss vorsichtig Zitronensaft und Olivenöl hinzugeben und alle Zutaten miteinander vermengen.– einige Zitronen geben mehr Saft als andere. Deshalb würde ich erstmal nur die Hälfte vom Zitronensaft dazugeben und später eventuell mehr. Und: spare nicht am Olivenöl.
+7. Probiere anschließend, ob Dir das Verhältnis zwischen Säure und Salz schmeckt. Würze evtl. noch einmal mit Salz, Pfeffer, Zimt und Zitrone nach.
 
 ## Mustaphas Lieblingsrezept aus Deutschland
-
 ### Fruchtiger Rotkohl mit Portwein
 
 ---
@@ -847,7 +881,7 @@ Die Füllung wie folgt vorbereiten: Hackfleisch, Reis, geriebene Zwiebel, kleing
 Dann nimmt man je ein Weinblatt, legt es mit der glatten Seite nach unten auf die Arbeitsfläche, nimmt einen Teelöffel Füllung und gibt diese auf die breite Seite des Blattes. Erst die breite Seite, dann die Seiten über die Füllung legen und dann zusammenrollen. So weiterverfahren, bis Blätter und Füllung aufgebraucht sind. Den Boden eines Kochtopfes mit ein paar Weinblättern auslegen, die gefüllten Weinblätter in Runden einfüllen, das restliche Öl/Zitrone übergießen und einen passenden Teller zum Beschweren auflegen.
 Die Brühe bis kurz über den Tellerrand einfüllen, Deckel drauf und bei kleiner Hitze ca. 20-30 Min. köcheln lassen. Es darf nicht brodeln. Danach vom Feuer nehmen, Teller entfernen und ein sauberes Geschirrtuch auf den Topf legen, Deckel drauf und ca. 15 Min. ruhen lassen. Guten Appetit! Schmecken warm und kalt!
 ***
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/h-tY0u1h4Pw/0.jpg)] (https://www.youtube.com/watch?v=h-tY0u1h4Pw)  
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/h-tY0u1h4Pw/0.jpg)](https://www.youtube.com/watch?v=h-tY0u1h4Pw)  
 ---
 
 ## Sidars Lieblingsrezept aus Deutschland
