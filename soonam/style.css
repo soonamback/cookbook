@@ -26,9 +26,9 @@
 }
 
 #curry {
-	position: relative;
-	top: 0%;
-	left: 750px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
 }
 
 #intro-1 {
@@ -50,8 +50,9 @@
 }
 
 #intro-3 {
-	position: relative;
+	position: absolute;
+	top: 200px;
+	width: 250px;
+	height: 250px;
 	left: 1000px;
-	height: 1500px;
-	border: 10px black;
 }
